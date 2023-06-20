@@ -1,0 +1,5391 @@
+﻿SONGTYPE Alabanza
+SONGNAME A ti El Alfa Y La Omega
+ {D#}   {G#}       {D#}          {G}       {Cm}
+A ti, el Alfa y la Omega, el Principio y el Fin
+    {G#}            {Fm}{A#}
+Y el Gran Yo Soy, me rindo.
+
+
+ {D#}     {G#}  {D#}         {G}       {Cm}
+A ti, el Todopoderoso, el que es y que será
+     {G#}             {A#}
+Y el Gran Yo Soy me entrego.
+
+  {G#}         {A#}     {Gm7}{Cm}
+Yo quiero que gobiernes mi vida,
+  {G#}       {A#}    {D#} {C#} {D#add9}
+Me doy en sacrificio a ti.
+  {G#}            {A#}     {Gm}   {Cm}
+Yo quiero que tú ordenes mi caminar.
+   {Fm}        {A#}        {D#}
+Que siempre viva en tu voluntad.
+
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Dios Esta Aquí
+{F}    {C} {Dm}
+Dios esta aquí
+    {A#}                 {C}    {F} 
+Tan cierto como el aire que respiro
+     {A#}               {C}       {Am}    {Dm}
+Tan cierto como en la mañana se levanta el sol
+    {Gm}              {C}               {F}
+Tan cierto como que le canto y me puedes oír
+
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Quiero Levantar Mis Manos
+{C#}               {Fm}   {A#7}              {D#m}
+Quiero levantar mis manos, quiero levantar mi voz.
+{A#}              {D#m} {G#}             {C#}  {C#7}
+Y ofrecerte a Ti mi vida,  en santidad y amor.
+{F#}               {D#m}     {Fm}          {A#}
+Padre sólo a Ti te ofrezco mi vida y mi corazón.
+{D#m}               {G#}   {F#}{D#m}{G#}   
+Y me postro en tu presencia en adoración.
+
+coro:
+
+{C#}      {Fm} {G#m}{C#}   {F#}{F#m}
+   Hijo de Dios,    recibe hoy,
+
+       {C#}{A#m} {D#m}       {G#}  
+toda la Gloria, la Honra y Honor.
+
+{C#}      {Fm}  {G#m}{C#}  {F#}{F#m}
+   Hijo de Dios,    recibe hoy,
+
+       {C#}{A#m} {D#m}  {G#}{C#}
+toda la Gloria, la Honra y Honor.
+
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Renuevame
+  {D}{G/D}{A/D}   {D}{G2}
+Renuevame Señor Jesús
+
+     {Em9}      {Asus4}{A7}
+ya no quiero ser igual
+
+  {D}{G/D}{A/D}   {D}{G2}
+renuevame Señor Jesús
+
+      {Em7}  {Asus4}{A}{G/A}
+pon en mi tu corazón
+
+      {D}        {A/C#}
+porque todo lo que hay
+
+   {Bm7}{Bm7/A}{G2}
+dentro de mi
+
+                {Em7}{Asus4}{G/A}{A/C#}
+necesita ser cambiado señor
+
+      {D}        {A/C#}
+porque todo lo que hay
+
+         {Bm7}{Bm7/A}{G2}
+dentro de mi corazón
+
+    {Em7}{A}   {D}  
+necesita más de tí
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Vine A Adorarte
+{C}        {G}
+Tú eres la luz
+      {Dm7}         {F}
+Que brillo en las tinieblas
+{C}       {G}       {F}
+Abrió mis ojos pude ver
+{C}    {G}   {Dm7}       {F}
+Mi corazón adora tu hermosura
+   {C}       {G}      {F}
+Esperanza de vida eres tú
+
+-CORO-
+       {C}
+Vine adorarte
+          {G}
+Vine a postrarme
+        {Am}            {F}
+Vine a decir que eres mi Dios
+             {C}
+Solo tú eres grande
+              {G}
+Solo tú eres digno
+         {Am}       {F}
+Eres asombroso para mi
+
+-ESTROFA-
+
+{C}        {G}
+Tú eres el rey
+     {Dm7}       {F}
+Grandemente exaltado
+     {C}       {G}     {F}
+Glorioso por siempre Señor
+    {C}        {G}     {Dm7}     {F}
+Al mundo que creaste humilde viniste
+  {C}        {G}        {F}
+Y pobre te hiciste por Amor
+
+-PUETE-
+
+ {G}    {Am}
+Nunca sabré
+   {F}   {C}
+Cuanto costo
+  {G}    {Am}
+De mi maldad
+  {F}    {C}
+Sobre esa cruz
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Señor Llévame A Tus Atrios
+     {C#m}
+Señor llévame a tus atrios
+{E}
+Al lugar santo
+{B}
+Al altar de bronce
+        {A}           {G#}
+Señor Tu rostro quiero ver
+
+ {C#m}
+Pásame en la muchedumbre
+             {E}
+Por donde el sacerdote canta
+      {B}
+Tengo hambre y sed de justicia
+         {A}          {G#}
+Y solo encuentro un lugar
+
+-CORO-
+
+    {E}             {B}
+Llévame al lugar santísimo
+       {A}          {G#}      {C#m}
+Por la sangre del Cordero Redentor
+    {E}             {B}
+Llévame al lugar santísimo
+    {A}       {B}      {C#m}
+Tócame, limpiame, heme aquí
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Somos el pueblo de Dios
+                   {C}
+Somos el pueblo de Dios
+                   {Am}
+Somos un pueblo especial
+                 {F}  {Dm}
+Llamados para anunciar
+                  {G}
+Las virtudes de Aquel
+                   {C}
+Que nos llamó a su luz
+
+                   {C}
+Somos el pueblo de Dios
+                 {Am}
+Su sangre nos redimió
+              {F}{Dm}
+Y su espiritu dio
+             {G}
+Para darnos poder
+                 {C}
+Y ser testigos de Él
+
+-CORO-
+
+                {F}   {G}
+Y llevaremos su gloria
+                   {Em}{Am}
+A cada pueblo en nación
+               {Dm}   {G}
+Trayéndoles esperanzas
+                  {C}
+Y nuevas de salvación
+                {F}  {G}
+Y su amor nos impulsa
+                 {Em}{Am}
+No nos podemos callar
+               {Dm}  {G}
+Anunciaremos al mundo
+               {C}
+De su amor y verdad
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Como el siervo
+       {E}   {C#m}         {G#m}
+Como el ciervo busca por las aguas
+    {A}     {E}      {F#m} {B}
+Así clama mi alma, por Ti Señor
+     {E}      {C#m}        {G#m}
+Día y noche, yo tengo sed de ti
+ {A}      {F#m}  {B}
+Y solo a ti   buscare
+coro
+{E} {B} {A}       {B}
+Lléname, lléname señor
+{E}  {B} {A}         {B}
+Dame mas, mas de tu amor
+  {F#m}{E/G#}{A} {F#m}   {B}
+Yo ten   go  sed, solo de ti
+{A} {B}  {E}
+Lléname señor
+ENDSONG
+SONGTYPE Himno
+SONGNAME 141 Oh Bondad Tan Infinita
+{C}
+Oh bondad tan infinita
+{F}               {C}
+hacía el mundo pecador
+                   {Am}
+Dios en Cristo revelando
+  {D7} {G}          {C}
+Su eternal y sando amor
+
+-CORO-
+     {F}      {C}
+Es Jesús para mí
+            {D7}  {G}
+la esperanza de salud;
+       {C}{Bb}   {F/A} {Fm/G#}
+Sólo en el   hallaré
+    {C}{C#dim}{Dm}{G}{C}
+la divi na    plenitud
+
+-ESTROFA-
+Como el vasto firmamento
+como el insondable mar
+es la gracia salvadora
+que Jesús al alma dá
+
+-ESTROFA-
+Aunque fueren tus pecados
+Rojos como el carmesí
+en el río del calvario
+hay limpieza para tí
+ENDSONG
+SONGTYPE Himno
+SONGNAME 61 Hubo quien por mis culpas
+     {D}                    {G}          {D}{Bm7}
+Hubo quién por mis culpas muriera en la cruz,
+      {E}    {A}       {D}{A}
+Aún indigno y vil como soy
+     {D}                   {G}      {D}{Bm7}
+Soy feliz pues su sangre vertió mi Jesús
+      {E}      {A}      {D}{A}
+Y con ella mis culpas borro
+
+-CORO-
+
+     {D}                 {G}      {D}
+Mis pecados llevo, en la cruz do murió
+    {Em7}      {A}      {D}{A}{D/F#}
+El sublime, el tierno Jesús
+       {G}     {D/F#}     {G}     {D}{Bm}
+Los desprecios sufrió y mi alma salvó
+     {Em7}      {A}        {D}
+El cambió mis tinieblas en luz
+
+-ESTROFA-
+
+     {D}                  {G}       {D}{Bm7}
+El es tierno y amante cual nadie lo fue
+       {E}          {A}      {D}{A}
+Pues convierte al infiel corazón
+     {D}                {G}     {D}{Bm7}
+Y por esa paciencia y ternura yo sé
+        {E}      {A}     {D}{A}
+Que soy libre de condenación
+
+-ESTROFA-
+
+       {D}              {G}       {D}{Bm7}
+Es mi anhelo constante a Cristo seguir
+     {E}      {A}      {D}{A}
+Mi camino su ejemplo marcó
+      {D}             {G}      {D}{Bm7}
+Y por darme la vida El quiso morir
+     {E}        {A}    {D}{A}
+En la cruz mi pecado clavó
+
+ENDSONG
+SONGTYPE Himno
+SONGNAME 122 Quieres Ser Salvo
+{G}                  {C}     {G}
+¿Quieres ser salvo de toda maldad?
+    {D}           {C} {D}  {G}
+tan sólo hay poder en mi Jesús
+                  {C}      {G}
+¿Quieres vivir y gozar santidad?
+    {A7}       {D}      {G}
+tan solo hay poder en Jesús
+
+-CORO-
+            {G7}  {C}        {G}
+Hay poder, poder, sin igual poder
+    {D}          {G}
+en Jesús quien murió
+            {G7}  {C}        {G}
+Hay poder, poder, sin igual poder
+      {A7}      {D}     {G}
+en la sangre que el vertió
+
+¿Quieres ser libre de orgullo y pasión?
+tan sólo hay poder en mi Jesús
+¿Quieres vencer toda cruel tentación?
+tan solo hay poder en Jesús
+
+¿Quieres servir a tu Rey y Señor?
+tan sólo hay poder en mi Jesús
+Ven, y ser salvo podrás en su amor
+tan sólo hay poder en Jesús
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME A Tus Pies
+      {A}             {E}
+A tus pies arde mi corazón
+      {F#m}               {D}
+A tus pies entrego lo que soy
+       {A}              {E}
+Es el lugar de mi seguridad
+     {F#m}            {D}
+Donde nadie me puede señalar
+
+-PRE CORO-
+
+       {D}                         {E}
+Me perdonaste, me acercaste a tu presencia
+      {F#m}                      {E}
+Me levantaste, hoy me postro a adorarte
+
+-CORO-
+
+           {A/C#}  {D}
+No hay lugar más   alto
+    {E}                   {F#m}
+Más grande que estar a tus pies
+                {E}
+Que estar a tus pies
+                {D}
+No hay lugar más alto
+    {E}                   {F#m}
+Más grande que estar a tus pies
+                {E}
+Que estar a tus pies
+
+-PUENTE-
+
+    {D}         {E}
+Y aquí permaneceré
+  {F#m} {E}    {D}
+Postrado a tus pies
+    {D}        {E}
+Y aquí permaneceré
+              {F#m}
+A los pies de Cristo
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Abba padre
+{B}          {F#/A#}
+Una vez más
+    {G#m}
+me acerco a ti
+    {E}
+con libertad
+{E/C#}    {F#}
+en adoración
+
+{B}             {F#/A#}
+Tu eres mi Dios,
+ {G#m}
+Tu Hijo soy,
+   {E}        {E/C#}
+mi comunión contigo
+       {F#}
+es una dulce bendición
+
+-CORO-
+
+{B} {E/B}    {B} {E/B}
+Abba Padre, Abba Padre,
+  {B}   {G#m}
+estar contigo
+      {E/B}        {F#}
+es una dulce bendición
+{B} {E/B}
+Abba Padre,
+  {A#dim}{D#}  {G#m}
+Te Aaaaaaamo  Señor
+ {E}            {B}
+quiero estar en comunión
+{C#m}{D#m}{E}{F#}{B}
+Quie  ro estar contigo..
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Abre mis ojos
+{C}
+Abre mis ojos, oh, Cristo
+{G} 
+Abre mis ojos, te pido
+         {F}
+Yo quiero verte
+         {C}
+Yo quiero verte
+
+-PRE CORO-
+
+        {G}          {Am}
+Y contemplar tu majestad
+{F}                   {G}
+Y el resplandor de tu gloria
+{G}                {Am}
+Derrama tu amor y poder
+         {F}           {G}
+Cuando cantamos santo, santo
+
+-CORO-
+
+{C} 
+Santo, santo, santo
+{G} 
+Santo, santo, santo
+{F} 
+Santo, santo, santo
+          {C}
+Yo quiero verte
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Agnus Dei
+{F}   {Bb}{F}    {C}{Bb}
+//A- lelu  ya, alelu ya
+      {C}     {Bb} {F}
+Reinas tú, poderoso Dios//
+
+{F} {C}{Bb}
+A- lelu ya
+
+{Bb}{C}{F} {C}{F}
+Saaaaan to, Santo
+    {Bb}{F}     {Dm}{C}
+El Señor Dios poderoso
+
+{Gm}      {Bb} {Gm}      {Bb}
+Digno eres tú, digno eres tú
+       {C}{F} {C}{F}
+Tú eres Santo, Santo
+{Gm}      {Bb} {Gm}      {Bb}
+Digno eres tú, digno eres tú
+       {C}{F} {C}{F}
+Tú eres Santo, Santo
+{C}{F}
+ Améen
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Al Estar En La Presencia De Tu Divinidad
+    {E}         {G#m}           {C#m}
+Al estar en la presencia de tu divinidad
+           {A}        {F#m}        {B}
+Y al contemplar la hermosura de tu santidad
+     {E}       {G#}        {C#m}
+Mi espíritu se alegra en tu majestad
+    {A}     {F#m}        {B}
+Te adoro a ti, te adoro a ti
+
+-ESTROFA-
+
+      {E}       {G#m}       {C#m}
+Cuando veo la grandeza de tu dulce amor
+     {A}       {F#m}       {B}
+Y compruebo la pureza de tu corazón
+     {E}       {G#}        {C#m}
+Mi espíritu se alegra en tu majestad
+   {A}      {F#m}        {B}
+Te adoro a ti, te adoro a ti
+
+-CORO-
+
+      {E}       {G#m}            {C#m}
+Y al estar aquí delante de ti te adorare
+        {A}        {F#m}        {B}
+Postrado ante ti mi corazón te adora oh Dios
+          {E}                        {A}           {Am}
+Y siempre quiero estar para adorar y contemplar tu santidad
+  {E}          {B}      {A}      {E}
+Te adoro a ti Señor, te adorooo a ti
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Al Que Esta Sentado En El Trono
+{E}             {C#m}
+Quiero conocerte cada día más a ti
+ {A}                     {A}{B}{A}{B}
+Estar en tu presencia y adorar
+ {C#m}
+Revelanos tu gloria
+  {E}
+Deseamos ir mucho más en ti
+  {A}                   {B}
+Queremos tu presencia Jesús
+
+-CORO-
+
+{E}
+Al que está sentado en el trono
+{C#m}
+  Al que vive para siempre y siempre
+       {A}            {B}
+Sea la gloria, sea la honra y el poder
+       {A}            {B}
+Sea la gloria, sea la honra y el poder
+ENDSONG
+SONGTYPE Himno
+SONGNAME 21 Al Rey De Los Reyes
+  {Bm}                  {Em}        {Bm}
+Al Rey de los reyes, Jehová el glorioso,
+  {Em}      {Bm}    {F#}       {Bm}
+Cantemos con gozo en santa comunión;
+   {Bm}              {Em}      {Bm}  
+Con gran reverencia a El nos lleguemos,
+  {Em}        {Bm}     {F#}     {Bm}
+Su nombre ensalcemos de todo corazón.
+
+-CORO-
+
+{B7}  {Em}    {A}        {D}
+Gozo y paz hay en mi corazón,
+  {Bm}         {F#}                  {Bm}
+Su gracia me salvó y aseguró mi salvación;
+{B7}   {Em}   {A}          {D}
+Es mi anhelo a mi Señor servir,
+  {Bm}         {F#}                    {Bm}
+Su voluntad cumplir y para El siempre vivir.
+   {D}                                     {Em}{A7}
+Oh gran dulce esperanza nos alienta para seguir,
+  {Em} {A7}        {Em}{A7}
+La seeeeenda que el Maestro;
+       {G}        {A}     {D}
+Nos marcó con su ejemplo aquí.
+                       {D7}       {G}
+Allá en lontananza, al fin de la labor,
+          {D}        {A}         {D}
+Daremos alabanzas a nuestro Salvador.
+
+-ESTROFA-
+
+  {Bm}               {Em}    {Bm}
+Al Rey de los reyes Jesús el amante, 
+  {Em}        {Bm}     {F#}       {Bm}
+Sublime y triunfante al mundo volverá; 
+   {Bm}                 {Em}    {Bm}
+Con todos sus santos con alegres cantos, 
+    {Em}      {Bm}    {F#}     {Bm}
+Su iglesia anhelante a El se unirá. 
+
+-ESTROFA-
+  {Bm}            {Em}     {Bm}
+Al santo espíritu fiel y bendito, 
+  {Em}        {Bm}     {F#}        {Bm}
+Oh demos bienvenida al huésped celestial; 
+ {Bm}                 {Em}    {Bm}
+Y con su presencia, virtud y potencia, 
+  {Em}     {Bm}      {F#}        {Bm}
+Terminará dolencia, pecado y todo mal 
+
+-ESTROFA-
+  {Bm}              {Em}  {Bm}
+Al Dios sólo sabio y omnipotente, 
+   {Em}      {Bm}    {F#}       {Bm}
+Den todos reverentes honor y majestad;
+   {Bm}             {Em}    {Bm}
+Por sus beneficios reciba propicio, 
+    {Em}     {Bm}     {F#}      {Bm}
+Mi humilde servicio, divina Trinidad.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Anhelo Conocerte
+{E}                       {A}
+Anhelo conocerte, Espíritu Santo
+{F#m}           {B}          {E}{B}
+Anhelo siempre estar cerca de ti
+      {C#m}          {B}
+Más yo sé que he fallado
+     {A}
+Tu presencia he descuidado
+      {F#m}   {A}              {B}
+Ven y limpia todo lo que hay en mí
+      {E}                        {A}
+Como paloma con tu gracia, hoy desciende
+     {F#m}      {B}       {E}
+Como aceite derramado, úngeme
+    {C#m}              {B}
+Como fuente de agua de viva
+ {F#m}                 {A}        {B}     {E}
+Sacia mi sed, llama de fuego ven y purifícame
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Aquí Estás
+      {F}            {C}
+Aquí estas Te vemos mover
+       {G}        {Am}
+Te adorare Te adorare
+      {F}            {C}
+Aquí estas Obrando en mi
+       {G}       {Am}
+Te adorare Te adorare
+
+-PRE CORO-
+
+{F}
+  Milagroso abres camino
+{C}
+Cumples promesas
+            {G}
+Luz en tinieblas
+                {Am}
+Mi Dios así eres Tú
+
+-CORO-
+           {F}           
+//Así eres tu, 
+        {C}             
+así eres tu, 
+        {G}           
+así eres tú, 
+        {Am}
+así eres tú//
+
+-Estrofa-
+
+      {F}                {C}
+Aquí estas tocando mi corazón
+       {G}        {Am}
+Te adorare Te adorare
+      {F}                {C}
+Aquí estas sanando mi corazón
+       {G}        {Am}
+Te adorare Te adorare
+
+-PUENTE-
+  {F} 
+//  Aunque no pueda ver estas obrando
+{C} 
+   Aunque no pueda ver estas obrando
+{G}
+   Siempre estas, siempre estas obrando
+{Am}
+   Siempre estas, siempre estas obrando//
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Cada Mañana Al Despertar
+Intro 
+{C} {F} {C} {F}
+
+{C}   {F}           {G}
+Cada mañana al despertar
+{C}        {F}            {G}
+   Y por la noche al descansar
+   {Am}         {G}        {F}
+Agradezco tus bondades a mi vida
+  {Dm}               {G}         {C}
+Por todo lo que me permites disfrutar
+
+-CORO-
+
+  {F} {G} {C}    {F} {G}  {Am}    {F} {G}{C}
+Aleluuuuuuuya, Aleluuuuuuuuuya, Aleluuuuuuya
+ {F}        {G}           {C}
+Agradecido estoy por tu bondad
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Cantaré Al Señor Por Siempre
+      {Bm}            {A}
+//Cantaré al Señor por siempre
+  {G}        {F#}   {Bm}
+Su diestra es todo poder//
+
+             {A}
+Echó a la mar
+                  {Bm}
+Quien los perseguía
+               {A}
+Jinete y caballo
+              {Bm}
+Echó a la mar
+
+ {A}     {Bm}    {G}           {F#}
+Echó a la mar los carros del faraón
+{Bm}{A}{G}{F#}{Bm}
+lalala…..
+
+               {A}
+Mi padré es Dios
+             {Bm}
+Y yo le exalto
+               {A}
+Mi padré es Dios
+             {Bm}
+Y le exaltaré
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Grande Es El Señor
+{Bm}
+Grande es el Señor
+Creador del universo
+{A}
+Canta y danza al Rey que viene pronto
+{Bm}
+De felicidad el corazón nos llena
+{Em}     {G}  {F#}
+Grande es el Señor.
+
+{Bm}
+Hooosana al Altísimo
+{A} 
+Hooosana al Altísimo
+{Bm}
+Hooosana al Altísimo
+{Em}     {G} {F#}{Bm}
+Grande es el Señor.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Cantico Nuevo
+          {F}
+Me has escogido
+   {Am}
+un adorador
+    {Dm}       {Am} 
+sacerdote del Señor
+       {A#}
+para alabanza
+      {C}       {F} {C}
+de tu gloria y honor
+
+        {F}      {Am} 
+Desde el vientre Señor
+          {Dm}  {Dm7} 
+me has escogido
+      {Bb}
+y por eso
+   {Gm} {C}
+te alabo Señor
+
+-PRE CORO-
+
+      {Dm}   {Am} 
+Con mi vida Señor
+       {A#}     {Am} 
+con mis labios Señor
+      {A#}  
+yo te ofrezco
+  {Gm}      {C}
+un canto de amor
+
+             {F}{Am}
+Has puesto en mi
+          {A#}
+un cantico nuevo
+             {C}
+Has puesto en mi
+          {A#}{F}{C/E}
+canto de alabanza
+
+      {Dm} 
+En mis labios
+{Dm7}    {G} 
+Hay adoración
+     {A#}
+y el cántico
+{C}       {F} 
+de mi corazón
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Celebrad A Cristo
+
+{C} {F}   {G}     {C}      {F}{G}
+Celebrad a Cristo, celebrad
+{C} {F}   {G}     {C}      {G#}{A#}
+Celebrad a Cristo, celebrad
+{C} {F}   {G}     {C}      {F}{G}
+Celebrad a Cristo, celebrad
+{C} {F}   {G}     {C}
+Celebrad a Cristo, celebrad
+
+   {G}     {Am}
+El vive, El vive
+      {G}         {Am}
+Y por siempre reinará
+   {G}     {Am}
+El vive, El vive
+
+         {G}
+//Vamos a celebrad//
+         {G#}  {A#}{C}{F}{G}
+Nuestro Señor resucitó
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Con Mis Labio Y Mi Vida
+{C}           {F}  {C}
+Con mis labios y mi vida
+   {G}
+Te alabo, Señor
+  {F}{G}  {C}
+Te alabo, Señor
+{C}           {F}  {C}
+Con mis labios y mi vida
+   {G}            {C}
+Te alabo bendito Señor
+
+-CORO-
+
+      {F}    {G}
+Porque tú has sido
+  {Em}       {Am}
+Precioso para mí
+  {F}        {G}
+Precioso para mí
+  {Gm}       {C}
+Precioso para mí
+      {F}    {G}
+Porque tú has sido
+  {Em}       {Am}
+Precioso para mí
+   {Dm}    {G}    {C}
+Te alabo bendito Jesús
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Con Su Sangre Nos Ha Redimido
+{A}                     {D}
+Con su sangre,nos ha redimido
+            {A}
+para nuestro Dios,
+         {E}
+de todo linaje,pueblo,
+           {A} {E}
+lengua y nacion.
+{A} 
+Nos ha hecho reyes,
+      {D}                {A}
+y sacerdotes para nuestro Dios,
+      {E}
+y reinaremos sobre la tierra
+{D}         {E}      {A}
+Gloria al cordero de Dios.
+
+-CORO-
+
+{A}{D}{E}      {D}       {A}
+E  xaltar al cordero de gloria
+{A}{D}{E}      {D}    {A}
+A  dorar al que vive y reina
+{A}{D}{E}         {D}           {A}
+A  dorar al Dios altisimo,padre eterno
+  {E}     {A}
+Cordero de Dios
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Creo En Tí
+{Em}                    {C}
+Quiero levantar a ti mis manos
+      {G}
+Maravilloso Jesús
+    {D}
+Milagroso Señor
+{Em}                     {C}
+Llena este lugar de tu presencia
+           {G}
+Y haz descender tu poder
+           {D}
+A quienes estamos aquí
+
+-PRE CORO-
+
+       {Em} {D}{C}
+Creo en ti, Jeeesús
+             {Em} {D}{C}
+Y en lo que harás en mí
+       {Em} {D}{C}
+Creo en ti, Jeeesús
+             {Em} {D}{C}
+Y en lo que harás en mí
+  {G}
+En mí
+  {D}
+En mí
+
+-CORO-
+
+      {Em}
+Recibe toda la gloria
+      {C}
+Recibe toda la honra
+   {G}                {D}
+Precioso, oh, hijo de Dios
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Cristo Yo Te Amo
+{F}    {C}   {F}
+Cristo, yo te amo
+      {C/E}  {Dm}
+Cristo, yo te amo
+            {Gm}    {Bb}{C}
+No hay nadie como Tú
+  {F} 
+Jesús
+
+    {F}   {C}    {F}
+Y no sé dónde estuviera
+      {C/E}      {Dm}
+Si yo a Ti no te tuviera
+                 {Gm} {Bb}
+Si no hubiera conocido
+  {C}          {F}
+Al Dios que me ama
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Cuan Grande Es Dios
+  {F}
+El esplendor de un rey
+  {Dm}
+vestido en majestad
+                  {Bb}
+la Tierra alegre esta
+                  {C}
+la tierra alegre esta
+
+
+ {F}
+cubierto esta de luz
+  {Dm}
+vencio la oscuridad
+              {Bb}
+y tiembla a su voz
+             {C}
+tiembla a su voz
+
+-CORO-
+
+     {F}
+Cuan Grande es Dios
+             {Dm}
+cantale cuan grande es Dios
+            {Bb}      {C}      {F}
+y todos lo veran cuan grande es Dios
+
+-ESTROFA-
+
+{F}
+Día a día El esta
+    {Dm}
+y el tiempo esta en El
+              {Bb}
+Principio y el fin
+               {C}
+Principio y el fin
+
+
+   {F}
+La trinidad en Dios
+  {Dm}
+El Padre, Hijo Espiritu
+             {Bb}
+Cordero y el León
+             {C}
+Cordero y el León
+ENDSONG
+SONGTYPE Himno
+SONGNAME 203 Cuan Grande Es Él
+        {F}             {Bb}
+Señor mi Dios, al contemplar los cielos
+       {C}     {Bb}   {C}     {F}
+El firmamento y las estrellas mil
+                              {Bb}
+Al oír tu voz en los potentes truenos
+        {C}     {Bb}    {C} {F}
+Y ver brillar el sol en su cenit
+
+-CORO-
+
+      {F}   {Bb}         {F}{Dm}
+Mi corazón entona la canción
+              {Bb}     {C}       {F}
+Cuán grande es el, Cuán grande es el
+            {Bb}         {F}{Dm}
+Mi corazón entona la canción
+              {Bb} 
+Cuán grande es el
+     {C}      {F}
+Cuán grande es el
+
+-ESTROFA-
+
+      {F}                   {Bb}
+Al recorrer los montes y los valles
+         {C}    {Bb}   {C}  {F}
+Y ver las bellas flores al pasar
+                           {Bb}
+Al escuchar el canto de las aves
+         {C}     {Bb}  {C}  {F}
+y el murmurar del claro manantial
+
+-ESTROFA-
+
+        {F}               {Bb}
+Cuando recuerdo del amor divino
+               {C}      {Bb} {C}   {F}
+Que desde el el cielo al salvador envió
+                            {Bb}
+Aquel Jesús que por salvarme vino
+         {C}   {Bb}     {C}    {F}
+Y en una cruz sufrió por mi, murió
+
+-ESTROFA-
+
+           {F}                  {Bb}
+Cuando el Señor me llame a su presencia
+          {C}    {Bb}  {C}      {F}
+Al dulce hogar al cielo de esplendor
+                          {Bb}
+Le adorare cantando la grandeza 
+       {C}   {Bb}   {C}   {F}
+de su poder Y su infinito amor
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Dame De Beber
+{A}                 {Bm}
+Quiero estar en tu presencia
+{E}             {A} {C#m}{F#m}
+Y poderte contemplar
+                 {Bm} {E}
+Necesito estar contigo
+           {A} {A7}
+Necesito adorar
+
+-CORO-
+
+         {D} {E}
+Dame de beber
+         {C#m} {F#m}
+De tu manantial
+         {Bm} {E}
+Dame de beber
+         {A}
+Necesito más
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME De Tal Manera Me Amó
+  {Bb}           {F}
+De tal manera me amó
+      {Eb}      {Gm}{F}
+Que Su vida no escatimó
+  {Bb}                   {F}
+Hasta el final Él se entregó
+       {Eb}              {F}   {Bb}
+Y a la muerte fue por que Él me amó
+
+
+  {Bb}           {F}
+De tal manera me amó
+        {Eb}           {Gm}  {F}
+Y no hay forma en que podré pagar
+  {Bb}                 {F}
+El precio de Su grande amor
+    {Eb}          {F}   {Bb}
+Pero toda mi alma quiero dar
+
+-CORO-
+
+       {Gm}    {F}{Bb}
+Por Su amor yo viviré
+      {Gm}    {F} {Bb}
+De Su amor yo cantaré
+        {Gm}  {F} {Eb}
+Con mi Jesús caminaré
+               {F}
+Por que Él me amó a mí
+
+
+       {Gm}   {F} {Bb}
+Por Su amor yo viviré
+       {Gm}   {F} {Bb}
+De Su amor yo cantaré
+        {Gm}   {F}{Eb}
+Con mi Jesús caminaré
+              {F}
+Por que Él murió por mí
+       {Bb}
+Le seguiré
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Digno Eres De Gloria
+                {D}        {Bm}
+//Digno eres de gloria y alabanza
+ {G}               {Em}     {G}       {A}
+Levantamos nuestras manos adorandote Señor//
+
+-CORO-
+
+           {D}
+Grande Eres Tu
+       {A/C#}       {Bm}
+Grandes Tus milagros son
+                {G}
+No Hay Otro Como Tu
+      {Em}      {A}
+No Hay Otro Como Tu
+
+
+           {D}
+Grande Eres Tu
+       {A/C#}       {Bm}
+Grandes Tus milagros son
+                {G}
+No Hay Otro Como Tu
+      {Em} {A}  {D}
+No Hay Otro Como Tu
+ENDSONG
+SONGTYPE Himno
+SONGNAME 235 Dios Nos Ha Dado Promesas
+{F}
+Dios nos ha dado promesas
+{Bb}       {C}        {F}
+lluvias de gracia enviaré
+{Bb}        {C}     {Am} {Dm}
+Dones que os den fortaleeeeza
+{G}                 {C}
+gran bendición os daré
+
+-CORO-
+
+{F}
+Lluvias de gracia
+                 {C}
+lluvias pedimos señor
+{F}                 {Bb}
+Mandanos lluvias copiosas
+{Gm}       {C}     {F}
+Lluvias del consolador
+
+-ESTROFA-
+
+{F}
+Cristo nos dio la promesa
+{Bb}      {C}   {F}
+del Santo Consolador,
+{Bb}     {C}    {Am}{Dm}
+Dándonos paz y pureza,
+{G}               {C}
+para su gloria y honor.
+
+-ESTROFA-
+
+{F}
+¡Oh Dios, a todo creyente
+{Bb}       {C}     {F}
+muestra tu amor y poder!
+{Bb}       {C}      {Am}{Dm}
+Tú eres de gracia la fuente;
+{G}                   {C}
+llenas de paz nuestro ser.
+
+-ESTROFA-
+
+{F}
+Obra en tus siervos piadosos
+{Bb}   {C}     {F}
+celo virtud y valor,
+{Bb}    {C}      {Am}{Dm}
+Dandonos dones preciosos
+{G}             {C}
+Dones del consolador
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Espíritu De Dios Esta En Este Lugar
+     {D}             {G}          {D}
+El Espíritu de Dios esta en este lugar
+                       {G}            {A}
+El Espíritu de Dios se mueve en este lugar
+      {D}          {G}
+Esta aquí para consolar
+       {D}        {G}
+Esta aquí para liberar
+       {D}
+Esta aquí para guiar
+     {A}                   {D}    
+El Espíritu de Dios esta aquí
+ 
+-CORO-
+
+          {G}{A}           {D}
+Muévete en mi,   muévete en mi
+        {G}           {A}
+Toma mi mente y mi corazón
+       {F#m}        {Bm}
+Llena mi vida de tu amor
+          {Em}       {A}                {D} 
+Muévete en mi, Dios Espíritu, muévete en mi
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Esta Aquí
+{E}        {F#m}
+Él esta aquí
+{B}       {E}
+Él esta aquí
+          {F#m}
+Él esta Aquí
+{B}       {E}
+Él está Aquí
+
+-CORO-
+                
+Es como una llama
+     {F#m}
+que me Quema
+{B}
+Es como una Fuente
+          {E}
+en mi Interior
+                     {F#m}
+Espíritu santo ven y Llena
+{A}      {B}  {E}
+Satura mi Corazón
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Me Levantará
+ {D}        {Em}             {A}
+El me levantara,(El me levantara)
+            {D}              {Bm}
+El me levantara,(El me levantara)
+            {Em}             {A}         
+El me levantara,(El me levantara)
+           {D}          
+Así es el Señor
+
+-CORO-
+
+{D7}        {G}{A}             {F#m}{Bm}
+El me levantaraaaa, El me levantaraaaa
+                     {Em}{A}             {D}
+En sus manos me sostendraaaá el me levantara, 
+{D7}        {G}{A}             {F#m}{Bm}
+El me levantaraaaa, El me levantaraaaa
+                     {Em}{A}              {D}
+En sus manos me sostendráaaaa, Así es el Señor.
+
+-ESTROFA-
+
+ {D}        {Em}             {A}
+Me fortalecera,(Me fortalecera)
+            {D}              {Bm}
+Me fortalecera,(Me fortalecera)
+            {Em}           {A}         
+Me fortalecera,(Me fortalecera)
+           {D}          
+Así es el Señor
+
+-CORO-
+
+{D7}       {G}{A}            {F#m}{Bm}
+Me fortaleceraaa, Me fortaleceraaa
+                     {Em}{A}            {D}
+En sus manos me sostendraaaá Me fortalecera, 
+{D7}       {G}{A}           {F#m}{Bm}
+Me fortaleceraaa,  Me fortaleceraaa
+                     {Em}{A}              {D}
+En sus manos me sostendráaaaa, Así es el Señor.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Señor Es Mi Rey
+{F#m}                   {E}
+  El Señor es mi Rey, mi todo
+{F#m}                   {E}
+  El Señor es mi luz, mi Rey
+{D}                       {A}
+  El que me hace vibrar de gozo
+{D}              {A}
+  El que guía mis pasos
+{D}                  {A}
+  El que extiende sus brazos
+{D}                 {A}{E}{F#m}
+  El creador de los cie eeelos
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Señor Marchando Va
+   {F#m}
+El Señor marchando vá
+
+Y su pueblo junto a Él está
+   {D}               {E}        {F#m}
+Su gloria en nuestras vidas brillará
+    {F#m}
+Su victoria nos ha dado ya
+
+Y su brazo nos fortalecerá
+    {D}          {E}         {F#m}
+Lucharé hasta la tierra conquistar
+
+-CORO-
+
+     {D}                 {A}
+En mi vida el capitán es Cristo
+     {D}              {A}
+Marcharemos ante su presencia
+       {D}            {E}      {F#m}
+No hay armas que nos puedan derrotar
+ENDSONG
+SONGTYPE Himno
+SONGNAME 62 En El Monte Calvario
+     {E} 
+En el monte calvario
+ {A}
+estaba una cruz
+ {B}        {A}{B}    {E}
+emblema de afrenta y dolor
+
+oh yo amo a Jesús 
+        {A}
+quien murió en la cruz
+      {B}         {A}{B} {E}
+por salvar al más vil pecador
+
+-CORO-
+
+      {B}               {E}
+oh yo siempre amaré a Jesús
+       {A}     {B}         {E}
+en sus triunfos mi gloria será
+              {E7}        {A}
+y algún día en vez de una cruz
+    {E}    {B}      {E}
+mi corona Jesús me dará
+
+-ESTROFA-
+
+           {E} 
+Y aunque el mundo
+             {A}
+Desprecie la cruz de Jesús
+    {B}       {A}{B}     {E}
+Para mí, tiene suma atracción
+
+Pues en ella llevo
+     {A}
+El cordero de Dios
+     {B}      {A}{B}  {E}
+De mi alma la condenación
+
+-ESTROFA-
+
+      {E} 
+En la cruz de Jesús 
+      {A}
+do su sangre vertió
+     {B}    {A}{B}    {E}
+Hermosura contemplo en par.
+
+Pues en ella triunfate
+     {A}
+a la muerte venció
+     {B}     {A}{B} {E}
+y mi ser pudo santificar
+
+-ESTROFA-
+
+{E} 
+Yo seré siempre fiel 
+    {A}
+a la cruz de Jesús,
+       {B}         {A}{B} {E}
+Sus desprecios con él llevaré.
+
+Y algún día feliz 
+        {A}
+con los santos en luz,
+     {B}       {A}{B}  {E}
+Para siempre su gloria veré.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME En El Nombre De Jesús
+                  {C}{Em}{Am}
+En el nombre de Jesús
+           {C} 
+Me acerco ante 
+     {Dm}              {G}
+tu presencia ¡oh Señor!
+                  {F}{G}
+En el nombre de Jesús
+            
+A ofrecerte mi 
+ {C}             {Gm}{C}
+ofrenda ¡oh Señor!
+
+-CORO-
+
+     {F}           {G}
+Es alabanza, adoración,
+           {Em}        {Am}
+Lo que te ofrezco ¡oh Señor!
+     {Dm}         {G}         {C}
+En el nombre maravilloso de Jesús.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME En tí
+  {D}          {G}
+En Tí confia mi corazón.
+  {A}          {G}{D}{A/C#}{Bm}
+En Tí reposa mi alma,  mi  ser.
+                 {Em}
+descanza en ti en Tí
+            {A}
+puedo ser feliz.
+
+
+{A#}    {C}            {D}
+  Porque se que estás obrando.
+{A#}  {C}         {D}
+  Tu perfecta voluntad.
+{A#}  {C}           {D}
+  En mi vida estás obrando.
+{A#}  {C}         {D}
+  Tú perfecta voluntad.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Eres Digno
+     {D}       {G} 
+Eres digno, de abrir
+   {A}      {D} {G}{A}
+los sellos señor
+     {D}        {G} 
+Eres digno, de abrir 
+    {A}     {D}
+los sellos señor
+
+-CORO-
+
+       {D}  {D7} {G}
+Porque fuiste inmolado
+        {A}             {D} {G}{A}
+Con tu poder me has levantado
+       {D}  {D7} {G}  
+porque fuiste inmolado
+     {A}              {D}
+Y tu sangre me ha salvado
+{D7}  {G}{A}        {D}{D7}
+Gloria Dios, gloria Dios
+      {G}{A}        {D}
+Gloria Dios, gloria Dios
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Eres Tu La Única Razón
+{C}       {G} 
+Eres tú la única razón 
+      {Am}          {F}
+de mi adoración oh Jesús
+    {C}       {G} 
+Eres tu la esperanza que 
+{Am}             {F}
+anhele tener oh Jesús
+
+-PRE CORO-
+
+{Dm}                    {G} 
+  Confié en ti me has ayudado 
+{Dm}                     {G}
+  tu salvación me has regalado
+{C}                {G} 
+Hoy hay gozo en mi corazón
+       {F}          {G}
+con mi canto te alabaré
+
+-CORO-
+
+ {D}      {A} 
+//Te alabaré;
+{Bm}       {G} 
+te glorificaré; 
+{D}     {A}         {G}
+te alabare mi buen Jesús//
+
+-PUENTE-
+
+{C}      {F}             {G} 
+//En todo tiempo te alabaré, 
+{C}     {F}           {G}
+En todo tiempo te adorareé//
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Estamos Juntos Otra Vez
+                    {C}
+Estamos juntos otra vez
+             {Dm}{G}
+Alabando al Señor
+                    {F}{G}
+Estamos juntos otra vez
+      {C}{Gm}
+En unidad
+
+-CORO-
+
+    {C}     {F}   {G}
+El señor ya preparo
+               {Em}{Am}
+una gran bendición
+                    {Dm}{G}
+Estamos juntos otra vez
+              {C}
+Alabando al Señor
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Gracias Cristo
+        {A}            
+Gracias Cristo, 
+        {Bm}  {E}
+Gracias Cristo
+         {D}  {E} 
+Gracias Cristo,
+        {A}  {Em}
+Gracias Cristo
+
+-CORO-
+
+{A/C#}{D}             {E} 
+Levan  temos nuestras manos
+   {C#m}       {F#m}
+en señal de gratitud
+       {Bm}  {E}      
+Gracias Cristo, 
+        {A}
+Gracias Cristo
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Gracias
+
+      {F#m}
+Me has tomado en tus brazos
+        {E}
+Y me has dado Salvación
+      {F#m}
+De tu amor has derramado
+          {E}
+En mi corazón
+
+
+    {F#m}
+No sabré agradecerte
+          {E}
+Lo que has hecho tu por mí
+    {F#m}
+Sólo puedo darte ahora
+      {E}
+Mi canción
+
+-CORO-
+
+{A}{E/G#}{Bm}    {F#m}{E}
+Gracias, Gracias Señor
+{A}        {E/G#}  {D}{E}
+Gracias mi Señor Jesús
+
+-ESTROFA-
+
+     {F#m}
+En la cruz diste tu vida
+    {E}
+Entregaste todo ahí
+    {F#m}
+Vida eterna regalaste
+    {E}
+Al morir
+
+     {F#m}
+Por tu sangre tengo entrada
+       {E}
+Ante el trono celestial
+      {F#m}
+Puedo entrar confiadamente
+    {E}
+Ante tí.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Hacemos Hoy Ante Tu Altar
+       {C}           {Am}
+Hacemos hoy ante tu altar
+        {F}        {Dm}       {G}
+Un compromiso de vivir en santidad
+        {C}          {Am}
+Hacemos hoy ante tu altar
+           {F}             
+Un pacto de hombres
+       {Dm}      {G} {Am}
+que te quieren agradar
+
+-PRE CORO-
+
+          {Em}   {F} 
+Con manos limpias, 
+       {Dm}      {G}
+corazón puro para Tí
+
+-CORO-
+
+{C}{G/B}   {Am}
+Cuidaré mis ojos
+{F} {Dm}   {G}
+Cuidaré mis manos
+{C} {G}   {Am}       
+Cuidaré mi corazón, 
+          {F}
+de todo lo malo
+           {Am} 
+De todo lo vano 
+      {F}     {G}    {C}
+no te quiero fallar jamás
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Hay Una Fuente En Mí
+{E}                   {A}
+  hay una fuente en mi
+{B}        {E}   {A}
+que esta brotando
+{B}     {E}  {C#m}{A}
+que está fluyendo
+{B}       {E}
+dentro de mí
+
+-CORO-
+
+{A}     {B}      {E}   {A}
+  es un rio de alabanza
+ {B}      {E} {A}
+y de adoración
+   {B}        {E} {C#m}  {F#m}
+dirigido hacia ti señor jesús
+{B}  {E}
+recibelo
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Levanto Mis Manos
+{D}        {G}   {A}
+Levanto mis manos
+                {D}   {A/C#}{Bm}
+Aunque no tenga fuerzas
+           {Em7}  {G/A}
+Levanto mis manos
+       {A}            {D} {D7}
+Aunque tenga mil problemas
+
+-CORO-
+                   {G}
+Cuando levanto mis manos
+             {A/G}
+Comienzo a sentir
+     {F#m7}              {Bm7}
+Una uncion que me hace cantar
+                   {Em7}
+Cuando levanto mis manos
+             {A}      {D}{D7}
+Comienzo a sentir el fuego
+                  {G}
+Cuando levanto mis manos
+             {A/G}
+Mis cargas se van
+     {F#m7} {F#7/Bb}{Bm7}
+Nuevas fuerzas Tu me das
+   {B7/Eb}  {Em7}
+Todo eso es posible
+            {G/A}
+Todo eso es posible
+        {A}        {D}
+Cuando levanto mis manos
+ENDSONG
+SONGTYPE Himno
+SONGNAME 12 Admirable Es El Nombre
+   {D}
+Admirable es el nombre de Cristo,
+                       {Em}{A7}
+Su poder y virtud sin igual,
+      {Em}      {A7}       {Em}{A7} 
+Es el nombre que Dios ha provisto
+     {G}       {A}        {D}
+Para dar vida eterna al mortal.
+      {D}
+Es Su nombre cual mirra fragante, 
+               {D7}      {G}
+Que perfuma y embarga mi ser,
+                         {D}{Bm}
+Y en la lucha me hace constante
+         {Em}    {A7}    {D}
+Por su augusta virtud y poder.
+
+-CORO-
+
+     {E7}
+Soy feliz por Jesús el Cordero.
+                             {A}
+Quien por mi se inmoló en la cruz;
+          {G}               {D}{Bm}
+Quien con sangre marcó mi sendero,
+     {Em}     {A7}     {D}
+Y me dio vida eterna y luz.
+
+-ESTROFA-
+
+      {D}
+Me constriñe el amor admirable,
+                      {Em}{A7}
+De Jesús mi precioso Señor;
+      {Em}     {A7}     {Em}{A7} 
+Ya que sólo su amor insondable
+     {G}       {A}      {D}
+Pudo amar a tan vil pecador.
+      {D}
+En su amor mi esperanza reposa,
+                    {D7}     {G}
+Aunque el mundo me ofrezca placer, 
+                       {D}{Bm}
+Ya mi vida por Él es dichosa
+         {Em}   {A7}    {D}
+Y hoy le amo con todo mi ser.
+
+-ESTROFA-
+
+         {D}
+¿Quién habrá como Tú tan amable
+                        {Em}{A7}
+Que perdonas y olvidas el mal?
+    {Em}      {A7}    {Em}{A7} 
+Solo Tú, oh Cordero adorable, 
+   {G}       {A}    {D}
+Inmolado en madero fatal.
+    {D}
+Él ofrece perdón admirable
+               {D7}        {G}
+Al que acude contrito a su cruz,
+                    {D}{Bm}
+Y le llena de paz inefable,
+    {Em}    {A7}     {D}
+Y le da vida eterna y luz.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 161 Halle Un Buen Amigo
+               {F}      {Bb}      {F}
+Hallé un buen amigo, mi amado Salvador,
+                     {G7}       {C}
+Contaré lo que El ha hecho para mí:
+             {F}       {Bb}      {F}
+Hallándome perdido e indigno pecador,
+                 {C}         {F}{Cm}
+Me salvó y ya me guarda para sí.
+{F}{Bb}                 {F}
+Me salva del pecado, me guarda de Satán,
+                {G7}           {C7}
+Promete estar conmigo hasta el fin !Aleluya!;
+      {F}         {F7}      {Bb}      {Bbm}
+El consuela mi tristeza, me quita todo afán,
+         {F}             {C}        {F}
+¡Grandes cosas Cristo ha hecho para mí!
+
+-ESTROFA-
+
+  {F}                  {Bb}       {F}
+Jesús jamás me falta, jamás me dejará,
+                  {G7}       {C}
+Es mi fuerte y poderoso protector;
+                 {F}    {Bb}      {F}
+Del mundo yo me separo y de la vanidad
+                 {C}       {F}{Cm}
+Para consagrar mi vida al Señor.
+{F}  {Bb}                  {F}
+Si el mundo me persigue, si sufro tentación,
+                   {G7}        {C7}
+Confiando en Cristo puedo resistir !Aleluya!;
+     {F}           {F7}  {Bb}        {Bbm}
+La victoria me es segura, elevo mi canción,
+         {F}             {C}        {F}
+¡Grandes cosas Cristo ha hecho para mí!
+
+-ESTROFA-
+
+   {F}                  {Bb}        {F}
+Yo sé que Jesucristo muy pronto volverá,
+                  {G7}      {C7}
+Y entretanto me prepara un hogar
+                {F}       {Bb}          {F}
+En la casa de mi Padre, mansión de luz y paz,
+                       {C}        {F}{Cm}
+Do el creyente fiel con él ha de morar.
+{F}{Bb}                 {F}
+Llegándome a la gloria, ningún pesar tendré
+              {G7}             {C}
+contemplaré su rostro siempre allí !Aleluya!;
+       {F}       {F7}     {Bb}      {Bbm}
+Con los santos redimidos gozoso cantaré,
+        {F}             {C}        {F}
+¡Grandes cosas Cristo ha hecho para mí!
+ENDSONG
+SONGTYPE Himno
+SONGNAME 176 Tenme Brillando
+         {D}
+Tenme brillando, Señor,
+
+tenme brillando, por Ti 
+        {A7}
+Puro y limpio seré, 
+       {D}
+si Tu brillas en mi; 
+
+Será mi vida, Señor, 
+
+cual un lucero por Ti, 
+      {A7}
+Hasta que vengas 
+             {D}{Am}
+con tu gran poder. 
+
+-CORO-
+
+{D7} {G}                   {D}
+Oh, llévame a la gloria salvado por tí,
+{A}             {G}     {A}   {D}
+Llévame, Señor, quiero estar allí; 
+{D7} {G}                  {D}      {Bm}
+Oh, llévame a la gloria salvado por tí,
+      {Em}   {A7}     {D}
+Solo allí tu rostro veré. 
+
+-ESTROFA-
+
+          {D}
+Quiero ser tuyo, Señor, 
+
+siempre alumbrando por Ti,
+    {A7}
+lucharé con valor,
+       {D}
+si Tú brillas en mi;
+
+En Ti confío, Señor,
+
+para luchar con valor,
+     {A7}
+Hasta que vengas 
+              {D}{Am}
+con tu gran poder.
+
+-ESTROFA-
+
+         {D}
+Dame tu ayuda, Señor, 
+
+para que brille por Ti, 
+      {A7}
+Yo andaré en tu amor, 
+      {D}
+si tu brillas en mi;
+
+Séme propicio, Señor, 
+
+quiero alumbrar en redor,
+     {A7}
+Hasta que vengas 
+              {D}{Am}
+con tu gran poder.
+
+-CORO-
+
+{D7}{G}                  {D}
+Oh, llévame a la roca más alta que yo,
+{A}            {G}   {A}  {D}
+Llévame, Señor, yo te seguiré; 
+{D7}{G}                 {D}      {Bm}
+Oh llévame a la roca más alta que yo, 
+       {Em}{A7}      {D}
+Solo allí refugio tendré. 
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Dios el más grande
+{Bsus2}   {E/B}    {Gdim}     {Bsus2}
+Dios el más grande y digno de alabar
+  {E/B}         {F#}       {G#m}{F#}
+Yo vengo a Tu presencia a adorar
+  {B}                    {C#m}{F#}
+Yo doblo mis rodillas ante Ti.
+
+
+{Bsus2}   {E/B}    {Gdim}     {Bsus2}
+Dios el más grande y digno de alabar
+  {E/B}       {F#}     {G#m}{F#}
+Me ayuda al enemigo derrotar
+  {B}                 {C#m}{F#}
+El gozo de mi vida eres Tú.
+
+-CORO-
+
+ {B}               {C#m}   {D#m}
+Señor yo quiero levantar mi voz
+{E}        {G#m}                      
+Quiero agradecerte 
+      {C#m}     {E/F#}{F#}
+por Tu obra en mi vida
+  {B}             {C#m}  {D#m}
+Señor confío en Tu grande amor
+{E}         {G#m}
+Sólo Tú eres Dios eterno
+{C#m}     {E/F#}{F#}  {B}  
+Sólo Tú trasformas mi ser.   
+ENDSONG
+SONGTYPE Himno
+SONGNAME 147 Me hirió el pecado
+     {D}           {G}      {D}
+Me hirió el pecado, fui a Jesús
+   {G}{D/F#}{Em}{Bm}{A}
+Mostre  le   mi  do lor,
+   {D}          {G}    {D}
+Perdido, errante vi su luz
+  {Em} {A}      {D}
+Bendijome en su amor
+
+-CORO-
+{D}
+En la cruz, en la cruz
+     {Em}        {A}
+do primero vi la luz
+     {G}           {A}        {D}{Am}
+y las manchas de mi alma yo lavé
+{D7} {G}    {A}  {F#m}   {Bm}
+fué alli por fe do vi a Jesús
+  {Em}{D/F#} {G}     {A}   {D}
+y siem  pre feliz con Él sereé
+
+-ESTROFA-
+Sobre una cruz, mi buen Señor
+Su sangre derramó;
+por este pobre pecador
+a quien así salvó
+
+-ESTROFA-
+Venció la muerte con poder
+y al cielo se exaltó
+Confíar en Él es mi placer
+morir no temo yo
+
+-ESTROFA-
+Aunque Él ser fue, solo no estoy
+Mandó el consolador,
+Divino Espíritu que hoy
+Me da perfecto amor
+
+ENDSONG
+SONGTYPE Himno
+SONGNAME 333 Mi Dios es real
+          {G}{G7}        {C}
+Hay cosas que   yo no comprendo
+        {G}   {Em}   {D7}
+Lugares hay do yo no iré
+       {G}{G7}     {C}{Cm}
+Pero yo sé y  es verdad
+           {G}
+mi Dios es real
+{E7}      {A7}  {D7}   {G}
+Porque lo siento en mi ser
+
+-CORO-
+          {C}              {G}
+Mi Dios es real, real en mi ser
+                   {A}         {D7}
+Me ha lavado con su Sangre carmesí
+         {G}{G7}        {C}{Cm}
+Su dulce amor   es para mí
+           {G}
+Mi Dios es real
+{E7}      {A7}  {D7}   {G}
+Porque lo siento en mi ser
+
+-ESTROFA-
+Contigo soy, me dice hoy
+yo te guiaré a mi mansion
+pero yo sé y es verdad
+mi Dios es real
+Porque lo siento en mi ser
+
+-ESTROFA-
+No puedo explicar, como me sentí
+cuando Jesús me perdonó
+pero yo sé y es verdad
+Mi Dios es real
+Porque lo siento en mi ser
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Hay una unción
+{G}       {C}   {D/C}
+Hay una unción aquí,
+       {D/B} {G/E}
+Cayendo sobre mí,
+      {C/A}
+Llenándome,
+   {D}       {G}   {F/D}
+Cambiando mi ser.
+
+-CORO-
+
+    {G/B}       {C}
+Mi espíritu y mi alma,
+            {D}
+Se están llenando,
+       {D/B}               {G/E}
+Con el Poder de tu Espíritu Santo,
+  {C/A}       {D}
+Mi vida nunca más,
+       {G}    {F/D}
+Será igual.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME La dulce presencia de Dios
+   {C}
+La dulce presencia de Dios
+              {G}
+esta en este lugar
+                                               {C}
+El Espiritu Santo sobre su iglesia se va a derramar
+
+-CORO-
+
+           {G}
+Solamente alabale
+           {C}
+solamente alabale
+           {G}
+solamente alabale
+           {C}
+con el corazon
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME En esta reunion cristo esta
+   {G}
+en esta reunion cristo esta 
+                 {D7}
+el ha prometido estar
+
+donde dos o tres en mi nombre esten
+         {G}        {D7}        {G}
+alli estare alli estare alli estare
+ENDSONG
+SONGTYPE Himno
+SONGNAME 281 Quiero andar mi señor
+quiero andar mi señor por tu senda de amor
+elevandome mas y mas;
+por doquiera impartiendo alegria y solaz,
+pero lleno de tu bondad.
+
+               "CORO"
+
+
+mi sendero de amor llena hoy,
+que tu espiritu guie mis pies;
+y que sienpre al cantar lleno este de tu amor,
+el camino por donde voy
+
+-ESTROFA-
+tenme cerca de ti, oh mi buen salvador
+no permitas, señorjamas:
+que yovague sin luz, sin destino, sin paz,
+!mi sendero de amor llena hoy!
+
+-ESTROFA-
+la jornada fugazpronto terminara,
+y no habra mas sufrir alla;
+permitidme cantar al augusto señor
+!mi sendero de amor llena hoy!.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 4 !Santo! !santo! !santo!
+santo, santo ,santo, señor omnipotente,
+sienpre el labio mio loores te dara;
+santo, santo, santo, te adoro reverente,
+Dios en tres personas bendita triniad
+
+      -2-
+santo,santo ,santo,en numeroso coro,
+santos escojidos te adoran con fervor,
+de alegria llenos y sus coronas de oro 
+rinden ante el trono glorioso del señor.
+
+      -3-
+santo,santo,santo,la inmensa muchedunbre,
+de angeles que cunplen tu santa vooluntad,
+ante ti se postra bañada con tu nonbre,
+ante ti que has sido que eres y seras.
+
+      -4-
+santo, santo, santo,por mas que estes velado
+e imposiblesea tu gloria contenplar,
+santo tu eres solo y nada hay a tu lado,
+en poder prfecto,pureza y caridad.
+
+      -5-
+santo, santo santo,la gloria de tu nonbre
+vemos en tus obras, en cielo,tierra y mar,
+santo santo santo te adorara todo honbre
+Dios en tres personas, bendita trinidad.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 7 Dad al padre toda gloria
+{A}               {E}
+dad al padre toda gloria,
+                  {A}
+dad al hijo todo honor
+       {A/G}    {D/F#}{Dm/F} 
+y al espiritud divino,  
+{A/E}      {E}  {A}
+  alabanzas de loor.
+
+                 "CORO"
+                                  {E}
+adoradle,adoradle, adorar al salvador,
+{A} {A/G}     {D/F#} {Dm/F}
+tributadle toda glo  ria,
+{A}                {E}     {A}
+pueblo suyo por su grande amor.
+
+           -2-
+adoradle !oh iglesia¡
+por jesus tu redentor,
+rescatada por su gracia,
+libre por su grande amor.
+
+           -3-
+entonadle un canto nuevo
+huestes libres del señor,
+tierra cielo mar y luna,
+gloria dan al trino Dios.
+                   
+                 "CORO"
+yo te adoro,yo te adoro, yo te adoro buen jesus:
+yo te adoro reverente, 
+¡oh cordero santo de mi Dios  
+ENDSONG
+SONGTYPE Himno
+SONGNAME 9 Tan dulce el nombre de Jesús
+     {G}                  {Am} {D} 
+¡ tan dulce el nombre de jesus!
+    {Am}   {D} {D/F#} {G}
+sus bellas notas al cantar
+                    {G7}  {C}
+que mi alma llena al proclamar,
+           {D}  {G}
+¡el nombre de jesus!
+
+      "CORO"
+{G}                  {Am} {D}
+cristo ¡ oh que dulce es!
+{Am}{D} {C} {D}     {G}
+cristo  para siempre es;
+       {G7}        {C}{Cm}        
+cristo, yo te aclamare, 
+{G}          {D}       {G}
+por siempre ¡ oh mi cristo!
+
+       -2-
+adoro el nonbre de jesus ,
+jamas me faltara s amor;
+y pone aparte mi dolor,
+¡el nonbre de jesus!
+
+       -3-
+tan puro el nonbre de jesus
+que mi pesar pudo quitar,
+y grata paz a mi alma dar,
+¡ el nonbre de jesus!
+       
+       -4-
+el dulce nonnbre de jesus,
+por sienpre quiero alabar;
+y todos deben ensalzar,
+¡el nonbre de jesus!
+ENDSONG
+SONGTYPE Himno 
+SONGNAME 10 Alabad a Jehova
+  {Dm}
+alabad a jehova porque es bueno
+       {A7}               {Dm}
+pueblos todos su nombre alabad,
+el es el rey sobre toda la tierra,
+      {A7}              {Dm}  {D7}             
+dios eterno por siempre jamas.
+
+         -CORO-
+      {Gm}   {C}        {F}      {Dm}
+hay un solo camino, es jesus el señor.
+      {Bb}     {A}     {Dm}  {D7}
+si tu vienes, a el llegaras
+      {Gm}   {C}        {F}      {Dm}
+hay un solo camino, es jesus el señor,
+      {Bb}            {A7}     {Dm} 
+si seguimos en el llegaremos a sion.
+
+          -2-
+son sus leyes un rayo divino
+esculpidas en el corazon,
+de los honbres que humildes se allegan
+a su hijo pidiendo perdon.
+
+          -3-
+es mi gozo seguir el camino
+po que se que he de ver a jesus, 
+cuando deje este mundo de espinas
+entrare al pais de la luz.
+
+          -4-
+he vennido de tirras lejanas,
+de ese pueblo de la destruccion
+me encamino a la tierra deseada,
+do me espera mi buen salvador.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Dios Manda Lluvia
+{G}                     {D/F#}   {Em}
+Dios manda lluvia derrama de tu Espíritu
+          {D}    {C}       {G/B} {Am}
+Desciende hoy tu fuego sana mis heridas
+   {D}      {G}   {Dm}
+restaurame Señor
+
+-CORO-
+
+{G}      {C} {D}                {Bm}{Em}
+Manda la lluvia  el rocío de tu amor
+            {Am} {D}                {G} {Dm}
+llenando las vidas de tu pueblo Oh Señor
+{G}      {C} {D}                {Bm}{Em}
+Manda la lluvia el rocío de tu amor
+             {Am}{D}         {G}
+visita hoy mi vida cambiame Señor
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME La Palabra Del Señor
+      {G}
+//La palabra del señor me enseña
+    {D}        {G}
+como debo de vivir//
+        {D}          {G}
+en santidad dice el señor
+         {D}           {G}
+andad en luz como yo estoy
+           {D}         {G}{Em}
+y si tu hicieres esto asi
+      {Am}   {D}  {G}
+alumbraras al pecador
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Jesucristo Basta
+{Em}       {C} {G}     {Em} {C}     {G}
+   Nuestros corazones,   insaciables son
+{Em}     {C}  {G}        {D}  {Em}{C}{G}{D}
+   Hasta que conocen a su Salvador
+
+-PRECORO-
+{C}                  {Em}{D}
+Tal y como somos nos amó
+{C}                    {Em}{D}
+Hoy nos acercamos sin temor
+
+-CORO-
+{G}      {D}           {Em}
+Él es el agua que al beber
+      {C}           {G}
+Nunca más tendremos sed
+    {D}        {Em}
+Jesucristo basta
+    {C}        {G}
+Jesucristo basta
+     {D}       {Em}
+Mi castigo recibió
+        {C}             {G}
+Y Su herencia me entregó
+    {D}        {Em}
+Jesucristo basta
+    {C}       {G}{D}{C}
+Jesucristo basta
+
+-ESTROFA-
+
+{Em}     {C}   {G}   {Em}      {C}     {G}
+   Fuimos alcanzados,   por Su grande amor
+{Em}      {C}  {G}           {D}  {Em}{C}{G}{D}
+   con brazos abiertos nos recibe hoy
+
+-FINAL-
+
+{Em}         {C}  {G}  {Em}     {C}   {G}
+   Ahora hay un futuro,   y esperanza fiel
+{Em}      {C}     {G}          {D}      {G}
+   En Su amor confiamos, hay descanso en Él
+ENDSONG
+SONGTYPE Himno
+SONGNAME 89 Una vez perdido vivia yo
+{D}              {G} {D}
+una vez perdido vivia yo
+{E7/A}                {G}{D}
+lejos y y vagando en errooor,
+                       {G}  {D}
+mas la voz de cristo me alcanzo
+{E7}                  {A}
+me salvo con tierno amor
+
+        "CORO"
+       {D}                      {D7}
+hay un nombre nuevo en la gloria,
+   {G}     {D}
+mio es, mio es,
+y los angeles cantan la historia
+{E7}            {A}
+salvo es el pecador
+           {D}                    {D7}
+oh hay un nombre nuevo en la gloria
+   {G}     {D}
+mio es, mio es,
+                        {B}  {E7}
+todos mis pecados ya son perdonados
+{Em}  {A}  {D}
+gloria al señor.
+
+            -2-
+en la biblia dice que salvo soy
+por la gracia de jesucristo
+y por fe en su nonbre a la glori voy
+desde que me rescato.
+
+           -3-
+cantos de alegria elevo hoy,
+a mi rey y buen salvador
+es porque mis dones a cristo doy
+que el me use en su amor.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 123 Tuyo soy jesus
+{G}   {D}             {G}
+tuyo soy jesus,ya escuche la voz
+       {C}             {G}
+de tu amor hablandome aqui,
+     {D}              {G}{D/F#}{Em}
+mas anhelo en alas de fe   su  bir
+     {Am}      {D}    {G}
+y mas cerca estar de ti.
+
+            "CORO"
+              {C}                {G}
+aun mas cerca,cerca, cerca de tu cruz
+    {A7}          {D}
+llevame !oh salvador¡
+        {G}   {F}    {C/E}      {Cm/Eb}
+aun mas cerca,cerca, cerca de tu cruz
+{G}{G#º}   {Am}  {D}{G}
+llevame !oh buen pastor.
+
+             -2-
+aseguirte a ti meconsagro hoy
+constreñido por tu amor
+y mi espiritud alma y cuerpo doy
+por servirte, mi señor
+
+             -3-
+oh cuan pura y santa delicia es
+de tu comunion gozar
+y contigo hablar ,y tu dulce voz
+cada dia escuchar
+
+             -4-
+de tu grande amor no conprendere
+cual es la profundidad
+hasta que contigo jesus este
+en gloriosa eternidad.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 164 Tu palabra santa
+    {F}                             {F#º}{Gm}{C}
+tu palabra santa llama a todo hombre peca dor.
+    {Gm}  {C}     {Gm} {C}   {Bb}  {C}     {F}
+para darle siempre calma y llenarlo de tu amor,
+                             {F7}      {Bb}
+si la acepta con el alma sentira su corazon,
+                 {F} {Dm}    {Gm} {C}   {F}
+que deveras tu le amas, !oh divino salvador¡
+
+                    " CORO "
+        {A7}          {Dm}        {G7}     {C}
+cielo,estrellas,mar y tierra,todo, todo pasara
+    {Bb}        {F}   {Dm}    {Gm}   {C}  {F}
+solo tu palabra eterna por los siglos durara.
+
+                      -2-
+tu palabra salvadora es verdad,es vida, es luz.
+que ilumina a toda hora hasta donde te allas tu.
+haz que tenga yo la honra de llevar sienpre tu cruz
+y alcanzar asi la gloria donde moras, mi jesus.
+
+                      -3-
+tu palabra es pan de vida, es sustento espiritual,
+cuando llega al alma herida, le da alivio, le da paz.
+todo aquel que la recibe, nunca,nunca morira,
+porque tu quieres que viva por toda la eternidad.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 175- Mientras viva
+        {G}
+mientras viva en este mundo,
+  {D}
+enemigos doquiera yo tendre,
+    {G}
+al señor estoy pidiendo,
+     {C}     {D}        {G}{Dm}
+en la lucha aumentame la fe.
+
+               "CORO"
+ {G}    {C}       {D}      {Bm}       {Em}
+señor aumentame la fe, si aumentame la fe
+       {Am}   {D}       {G}{Dm}
+y cualquier enemigo vencere,
+ {G}    {C}       {D}      {Bm}       {Em}
+señor aumentame la fe, si aumentame la fe
+       {Am}{G/B}  {C}  {D}   {G}
+!oh¡ mi cristo, tu lo pudes hacer.
+ 
+                 -2-
+este mundo no me quiere
+eso no me podra desalentar
+el señor lo ha vencido
+el su gracia me da para triunfar.
+
+                 -3-
+satanas nuestro enemigo
+al señor jesucristo se acerco
+y se acerca a mi pues sigo
+el camino que cristo nos marco
+
+                 -4-
+enemigos poderosos
+nuestra ruina procuran sin cesar,
+el señor dice: no temas
+yo contigopor sienpre voy a estar.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 146 En las olas inmensas
+{G}                       {C}       {G}
+En las olas inmensas de embravecido mar,
+    {E7}         {A7}                  {D7}
+que asaltan de mi alma la pobre embarcacion
+   {G}        {G7}     {C}         {G}
+de rodillas a cristo clame y el huracan
+  {E7}            {A7}       {D7}    {G}
+deshecho fue al instante a la voz de Dios.
+
+                    "CORO"
+    {G}     {G7}    {C}         {G}
+es cristo la roca el ancla de mi fe,
+                    {A7}       {D}
+los males lamentos y ayes de temor,
+   {G}      {G7}        {C}        {Cm}
+terminan por siempre con mi supremo rey
+   {G}{G#º}  {Am}{G/B}{D}{G}
+es jesucristo mi re   fugio
+
+               -2-
+me guarda de peligros de pruebas de dolor,
+el manda que los vientos no agiten tempestad
+los mares se detienen la ola reposo,
+y en cristo fijo el ancla, confiando mas.
+
+               -3-
+mi dulce salvador, si, mi hermoso amigo y Dios
+que libra de tristezas y aleja amarga hiel:
+por fe yo ire al cielo,mansion del ser de amor,
+la fuente inagotable de dicha y bien.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Algo Esta Cayendo Aquí
+Intro
+{G} {Em} {C} {D}
+
+{G}                     {Am}
+   Algo está cayendo aquí
+{D}                      {G}
+   Es tan fuerte sobre mí
+{Em}                  {Am}
+   Mis manos levantaré
+{D}                  {G} {Em}
+   Y su gloria tocaré
+
+
+{G}                     {Am}
+   Algo está cayendo aquí
+{D}                      {G}
+   Es tan fuerte sobre mí
+{Em}                  {Am}
+   Mis manos levantaré
+{D}                  {G}{Cadd9}{G}{D/F#}
+   Y su gloria tocaré
+
+(Coro)
+
+       {G}  {C}{G}
+Está cayendo
+                {D}{G}{D}
+Su gloria sobre mí
+        {G}{Am}               {G/B}    {C}
+Sanando heridas, levantando al caíiiiiiido
+                 {D}
+Su gloria está aquí
+
+       {G}  {C}{G}
+Está cayendo
+                {D}{G}{D}
+Su gloria sobre mí
+        {G}{Am}               {G/B}    {C}
+Sanando heridas, levantando al caíiiiiiido
+                 {D}
+Su gloria está aquí
+                 {G}{Em7}{Cadd9}{D}
+Su gloria está aquí
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Bellas Palabras De Vida
+{G}     {C}       {G}
+Bellas palabras de vida
+                    {Am}{D}
+son las de Cristo Jesús
+{Am}   {D}       {Am} {D}
+Ellas alientan mi alma
+{C}      {D}     {G}  {D}
+dan fortaleza y salud
+
+{G}     {C}       {G}
+Bellas palabras de vida
+{G7}              {C}
+resplandecen en mi ser
+                    {G}        {Em}
+bellas palabras que nunca en la vida
+ {Am}     {D7}        {G}{G7}
+Había escuchado hasta hoy
+
+{C}                {G}        {Em}
+bellas palabras que nunca en la vida
+ {Am}     {D7}        {G}
+Había escuchado hasta hoy
+ENDSONG
+SONGTYPE Himno
+SONGNAME 125 Quieres sobre el mundo
+{G}                    {G7}         {C}
+¿quieres sobre el mundo ser un vencedor?
+              {D}   {C}      {D}    {G}
+¿quieres tu cantar aun cuando hay dolor?
+{G}                     {G7}      {C}
+¿quieres ser alegre cual fiel luchador?
+            {G}    {D}         {G}
+guarda el contacto con el salvador.
+
+               "CORO"...
+             {D}              {G}
+guarda el contacto con el salvador,
+{Em}                     {A7} {D}
+luego las tinieblas no le cubriran
+{G}                {G7}     {C}
+por la senda alegre tu caminaras,
+              {G}    {D}         {G}
+a causa del contacto con el salvador.
+
+                 -2-
+en el mundo hay muhos tristes en pecar
+cuyos corazones lloran de pecar
+dales el mensaje no hay que callar,
+con Dios el contacto debes de guardar.
+
+                 -3-
+?quieres tu con Dios la comunion tener¿
+? y su gloria sienpre en ti permanecer¿
+? que el mundo a cristo pueda en ti hoy ver¿
+guarda el contacto con el supremo rey.
+
+                 -4-
+deja que el implante en ti,
+la humilda de cristo,y su santo amor,
+ora sienpre y vela, que jesus vendra
+guarda el contacto con el salvador.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 130 Cansado y triste
+{G}             {C}          {G}
+cansado y triste vine al salvador
+  {C}               {G}
+mi culpa el llevo mi culpa el llevo, 
+{G}             {C}         {G}
+mi eterna dicha halleen su amor
+  {C}   {D}   {G}
+mi culpa el llevo.
+
+               "CORO"
+  {C}
+mi culpa el llevo
+  {G}
+mi culpa el llevo
+ {A7}               {D}
+¡alegre siempre cantare¡
+{G}       {C}       {G}
+al señor gozoso alabare,
+   {C}    {D}  {G}
+porque el me salvo.
+
+               -2-
+borrados todos mis pecados son
+mi culpa el llevo mi culpa el llevo
+a el feliz elevo mi cancion .
+mi culpa el llevo
+                -3-
+ya vivo libre de condenacion
+mi culpa el llevo, mi culoa el llevo
+su dulce paz tengo en mi corazon
+mi culpa el llevo.
+                -4-
+si vienes hoy a cristo pecador,
+tu culpa llevara tu culpa llevara,
+perdon tendras si acudes al señor.
+tu culpa llevara.
+            "CORO"
+|:tu culpa llevara:|y linpiara tu corazon
+y diras feliz en tu cancion., mi culpa el llevo.
+ENDSONG 
+SONGTYPE Alabanza
+SONGNAME Venimos A Adorate Buen Jesús
+ {D}       {A/F#}
+Venimos a adorarte,
+      {Bm} {Am}{D/F#}
+Buen Jesús,
+  {G}       {Em}
+Venimos a adorar
+          {A}
+Tu nombre santo.
+
+-CORO-
+
+      {G}          {A}
+Porque tu eres tan bueno,
+     {F#m}         {Bm}
+Porque tu nos amas  tanto,
+ {Em} {D/F#}{G}    {A}    {D}
+Venimos a adorarte buen Jesús
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME No Daré Mi Vida
+{C}              {F}             {C}
+No daré mi vida a nadie mas que a ti
+{C}              {F}             {G}
+No daré mi vida a nadie mas que a ti
+{F}              {G}
+No daré mi vida a nadie mas
+{Em}             {Am}
+No daré mi vida a nadie mas
+{Dm}       {C/E} {F}    {G}  {C}
+Porque sólo Tú me puedes sostener
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Cuan Bello Es El Señor
+{Dmaj9}           {Em7}
+Cuán  bello es el Señor,
+{A13}             {Dmaj7}{B7}
+Cuán hermoso es el Señor. 
+                 {Em7}
+Cuán bello es el Señor,
+{A13}        {Dmaj7}  {Am7}{D7}
+Hoy le quiero adorar.
+
+-CORO-
+                 {Gmaj7}{Asus4}{A}
+La belleza de mi Señor
+             {F#m7}{B7}
+Nunca se agotará.
+                   {Em7}{A13}
+La hermosura de mi Señor
+               {Dmaj9} 
+siempre resplandecerá.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME De Gloria En Gloria Te Veo
+   {D}     {A/C#}     {Bm7}{Am7}{F#º}
+De gloria en gloria te veo
+   {G}        {D/F#}
+Cuanto más te conozco
+{Em7}             {Asus4}{A}
+Quiero saber más de ti
+  {D}       {A/C#}  {Bm7} {Am7}{F#º}
+Mi Dios cuan buen alfarero
+   {G}          {D/F#}
+Quebrántame, transfórmame
+{Em7}        {Asus4}{A}{D} {Am7}{D}
+Moldéame a tu imagen  señor
+
+-CORO-
+
+{G}   {A/G}  {F#m7}{Bm7}
+Quiero ser más como tu
+{G}  {A/G} {F#m7}{Bm7}
+Ver la vida como  tu
+{G}{A/G}        {F#m7}{Bm7}
+Saturarme de tu espíritu
+
+-(PRIMERA VUELTA)-
+{Em7}         {G}      {A}  {Am7}{D}
+Y reflejar al mundo tu amor
+-(SEGUNDA VUELTA)-
+ {Em7}       {A}        {D}
+Y reflejar al mundo tu amor
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Ya No Soy Esclavo
+    {C}             {Am/C}
+Me envuelves hoy con una canción
+   {F} {G}     {C}
+Melodía de tu amor
+       {C}            {Am/C}
+Cantas libertad en mi adversidad
+  {F}      {G}     {C}
+Hasta que huya el temor
+
+-CORO-
+        {F}      {G}         {C}
+//Ya no soy un esclavo del temor
+  {Am}  {G}    {C}
+Yo soy hijo de Dios //
+
+-ESTROFA-
+         {C}           {Am/C}
+Desde el vientre fui escogido en ti
+{F}     {G}  {C}
+Me llamó el amor
+     {C}        {Am/C}
+De nuevo nací recibido en ti
+  {F}       {G}   {C}
+Tu sangre en mí fluyó
+
+-MUSICAL-
+{Am} {G} {C} {F}
+Oh oh oh oh oh oh
+
+-PUENTE-
+{Am}         {G}          {C}   {F}
+   Abriste el mar para que yo camine
+{Am}         {G}           {C} {F}
+   Tu amor ahogó todo el temor
+{Am}      {G}         {C} {F}
+   Me rescataste y yo cantaré
+   {Am} {G}   {C}
+Yo soy hijo de Dios
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Los Hijos De Sion 
+    {G}
+Los hijos de sion
+  {C}          {G}
+se gozan en su rey
+                    {A7}   {D}
+alaban su nombre con cantos SI
+      {G}      {G7}{C}        {Cm}
+con pandero y arpa cantan alabanzas
+{G}   {G#º}{Am}{D}   {G}
+cantan ala  ban zas a El
+
+{G}
+aaaleluya
+{C}  {G}
+aaaleluya 
+{C}  {G} {D}{G}
+aaaleluya aa El
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Señor Marchando Va
+    {Am}       
+El Señor marchando vá
+Y su pueblo junto a Él está
+   {F}                {G}        {Am}
+Su gloria en nuestras vidas brillará
+     {Am} 
+Su victoria nos ha dado ya
+Y su brazo nos fortalecerá
+     {F}         {G}          {Am}
+Lucharé hasta la tierra conquistar
+
+-CORO-
+      {F}                {C}
+En mi vida el capitán es Cristo
+      {F}             {C}
+Marcharemos ante su presencia
+      {F}           {G}        {Am}
+No hay armas que nos puedan derrotar
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Levantate Levantate Señor
+ {Am}  {G}{F}  {G}       {Am}
+Levantateeeee Levantate Señor
+{Am}  {G}{F}  {G}       {Am}
+Levantateeeee Levantate Señor
+
+{F}    {G}        {Am}
+Tus enemigos se dispersen
+{F}         {G}    {Am}
+los justos se alegraran
+
+{F}  {G}    {Am}
+cantaran con regocijo
+{F}      {G}  {Am}
+has triunfado con poder
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Poderoso De Israel
+    {Dm}
+Y de noche cantaremos su poder 
+                  {A7}
+con alegria de corazón
+como el que va con la flauta, 
+                                    {Dm}
+al monte de Jehová celebraremos su poder
+
+-CORO-
+        {Dm}
+El es El poderoso de Israel
+                  {A7}
+El poderoso de Israel
+su voz se oirá, nadie llo detendrá
+                  {Dm}
+al poderoso de Israel
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Oh Moradora De Dios
+      {Dm}
+Oh moradora de Sion alaba a Jehová
+{A#}    {C}        {Dm}
+Grandes son sus maravillas
+Oh moradora de Sion alaba a Jehová
+{A#}    {C}        {Dm}
+Grandes son sus maravillas
+
+         {A#}        {C} 
+Sobre los montes y collados
+     {Dm}
+A MI amado buscaré
+{A#}  {C}          {Dm}
+Grande es su hermosura
+      {A#}         {C} 
+Y al estar en su presencia
+ {Dm}
+Gozoso danzaré
+{A#}         {A7}
+Al Señor alabaré
+
+  {Dm}
+//Grande es Jehová
+{A#}{C}     {Dm}
+Dig  no de alabar//
+
+{A#} {C}  {Dm}
+   Tú eres grande Jehová
+{A#}  {C}   {Dm}
+Grande es tu nombre
+{A#} {C}  {Dm}
+   Tú eres grande Jehová
+{A#}  {C}   {Dm}
+Grande es tu nombre
+{A#}  {C}   {Dm}
+Grande es tu nombre
+ENDSONG
+SONGTYPE Himno
+SONGNAME 133 Ni oro ni plata
+  {C}                     {Dm}
+ni oro ni plata me han redimido
+  {G}      {Dm}      {G}      {C}
+riquezas terrenas no pueden salvar
+                      {C7}      {F}
+la sangre de cristo ya fue mi rescate,
+             {C}       {G}     {C}
+tan solo por ella el me pudo librar.
+
+               "CORO"
+      {C}    {C#º}   {Dm}  {G}
+me redimio mas no con plata,
+      {Dm}{G}       {Em}{Ebm}{Dm}{G}
+me compro    el salvador
+       {C}{C7}          {F}    {Fm}
+con oro no,   mas con su sangre,
+      {C}{C#º}{Dm}{G} {C}
+grande precio  de su amor.
+
+                 -2-
+ni oro ni plata me han redimido
+para ello mi colpa grandisima fue.
+la sangre de cristo ya fue mi rescate,
+tan solo por ella  perdon yo alle
+
+                 -3-
+ni oro ni plata me han redimido,
+estando alejado en pecado atroz.
+la sangre de cristo ya fue mi rescate,
+¡amor tan sublime y precio de dios!
+                 
+                 -4-
+ni oro ni plata me han redimido,
+del miedo que nunca me pude quitar,
+la sangre de cristo ya fue mi rescate.
+tan solo por ella el me pudo librar.
+
+                 -5-
+ni oro ni plate me han redimido
+entrada en los cielos jamas pueden andar,
+la sangre de cristo ya fue mi rescate´
+tan solo por ella el me pudo comprar
+ENDSONG
+SONGTYPE Himno
+SONGNAME 131 Comprado con sangre
+{C}         {G/B}       {Am}{G}
+comprado con sangre por cristo
+   {Dm}     {G}      {C} {G}
+con gozo al cielo yo voy,
+{C}         {G/B}    {Am}{G}
+librado por sangre infinita,
+ {Dm/F}     {G}      {C} {C7}
+ya se que su hijo yo soy.
+
+          "CORO"
+  {F}    {C}
+lo se lo se 
+   {G}                 {C}{C7}
+comprado con sangre yo soy:
+  {F}{Fm}  {C}{Am}
+lo see   lo see 
+    {Dm}      {G}      {C}
+con cristo al cielo yo voy. 
+
+          -2-
+soy libre de pena y culpa,
+su gozo el me hace sentir.
+el llena de gracia mi alma,
+con el es tan dulce vivir
+     
+          -3-
+en cristo yo sienpre medito,
+y nunca lo puedo olvidar;
+callar sus favores no quiero
+voy sienpre a jesus a alabar.
+
+          -4-
+seguro se que la belleza
+del gran rey yo voy a mirar,
+ahora me guarda y me guia,
+y sienpre me quiere alludar.
+
+          -5-
+yo se que me espera corona
+la cual a los fieles dara
+jesus salvador, en el cielo
+mi alma con el estara
+ENDSONG
+SONGTYPE Himno
+SONGNAME 232 Busca hermano
+        {C}                    
+busca hermano la promeza 
+      {F}       {C}
+del bendito salvador
+      {D7}            {G}
+la promesa que el nos dio
+         {C}
+que su espiritu enviaria el 
+ {F}          {C}
+señor lo prometio
+     {D7}             {G}
+a su pueblo que el compro.
+
+              "CORO"
+    {C}
+llenara tu corazon a derramarse
+    {G}
+el señor te lo mandó
+        {C}
+trae tu vaso, traelo hoy. 
+                          {G/B}{Am}
+llenara tu corazon al derramaaaarse
+         {Dm} {G}   {C}    
+con su espiritu y poder
+
+                  -2-
+trae tu alma cuerpo y todo, a los pies del salvador
+es la sola condicion y en consagracion completa,
+ante el trono del señor
+busca hoy su bendicion´.
+
+
+                 -3-
+como fuente que derrama para siempre su virtud.
+es la gracia del señor´
+y conforme a su promesa el dara su plenitud,
+y una fuente tu seras.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Yo quiero más de ti
+{G}              {C/G}
+Yo, quiero más de ti
+{D/G}                     {G}{D/F#}
+    Y habitar en tu presencia...
+  {Em}   {D#5#}         {G/D}{G5b}         
+Menguar para que crezcas tu, 
+            {C} {Am}
+y cada día seré
+         {D}
+mas como tu.
+
+Coro:
+
+            {C}  {D}
+Quebranta mi corazón.
+            {Bm}  {Em} 
+Quebranta mi vi    da
+             {C}  {D}   {G} {Dm}{G7}
+Te entrego mi voluntad a ti.
+            {C}  {D}
+Todo lo que soy señor
+            {Bm}    {Em} 
+todo cuanto tengo es tuyo
+             {C}   {D}            {G}
+Yo quiero menguar para que crezcas tu.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Mensajero del gran rey
+    {G}
+Mensajero del gran rey
+                   {D7}
+mensajero del gran rey
+mensajero del gran rey
+   {C}    {G}{G7}
+yo soy yo soy
+
+       {C}                 {G}
+yo llevaré el mensaje del amor
+         {C}                       {G}
+a los perdidos que no tienen salvación
+         {D7}
+señor yo iré
+          {G}
+señor yo iré
+          {D7}
+señor yo iré
+          {G}
+señor yo iré
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Eres tu la única razón
+{C}          {G}             {Am}           {F}    
+eres tu la unica razon de mi adoracion oh jesus
+{C}            {G}          {Am}           {F}
+eres tu la esperanza que anhele tener oh jesus
+{Dm}                     {G} 
+   confie en ti me has ayudado  
+{Dm}                     {G}
+   tu salvacion me as regalado
+{C}                    {G}
+hoy hay gozo en mi corazon 
+      {F}           {G}{A}   
+con mi canto te alabare
+
+-CORO-
+ {D}     {A} {Bm}        {G}
+//te alabare¡ te glorificare,
+{D}     {A}         {G}
+te alabare mi buen jesus//
+
+-PRECORO-
+  {C}    {F}            {G}
+//en todo tiempo te alabare,
+{C}    {F}             {G}  {A}
+en todo tiempo te adorare//
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Ven es hora de adorarle
+{C}              {F}{C}
+ven es hora de adorarle
+{G}            {Dm}  {F}
+ven abre tu corazon a el
+{C}                {F}{C}
+ven ante su trono estamos
+{G}             {Dm}   {F}   {C}
+ven ante la majestad de Dios ven.
+
+-CORO-
+{F}               {C}
+toda lengua confesara que el es Dios
+{F}                 {C}
+las rodillas se doblaran
+{F}           {Am}
+y un tesoro tendras en el
+{F}            {G}
+si escojes su amor.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 80 Mi Jesús ascendio
+     {G}              {C}
+mi jesus ascendio a morar
+    {Am}           {D}        {G}
+a la patria que el fue a preparar,
+              {G7}      {C}{Cm}
+y sentedo a la diestra esta
+    {G}{Em}  {Am}{D}  {G}
+del padre por la eternidad.
+
+          " CORO "
+{D}                     {G}
+cristo ascendio para reinar,
+{C}    {A}       {D}
+con los angeles esta,
+                                  {G}
+intercediendo por nosotros desde alli
+       {C}             {G}     {Em}
+ha de venir aqui a levantar su grey,
+          {Am7} {D7}     {G}
+por que nosotros somos de el.
+
+            -2-
+tu eres a fuente de amor,
+prometiste que estando tu alli,
+enviarias al consolador
+a morar con noosotros aqui.
+
+            -3-
+tu hiciste a los cojos andar
+a los ciegos hiciste oir.
+los mudoos pudieron hablar,
+diste vista a los ciegos aqui.
+
+            -4-
+hoy te damos las gracias a ti
+por la grande manifestacion;
+pues tu eres quien sana  aqui,
+y el que da a las almas perdon.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 82 La mañana gloriosa
+       {C}     {F}     {C}
+cuan gloriosa sera la mañana
+      {F}                 {C}
+cuando venga jesus el salvador
+      {F}                  {C}   {Am}
+las naciones unidas como hermanas
+     {Dm}    {G}       {C}  
+bienvenida daremos al señor
+
+          "CORO" 
+     {G}                 {C}
+no habra nesesidad, de la luz al resplandor,
+      {G}                   {C}
+ni el sol dara su luz, ni tampoco su calor,
+      {G}                   {C}
+alli llanto no habra, ni trizteza ni dolor,
+        {F}                     {C}   {Am}
+porque entonces jesus el rey del cielo
+      {Dm}     {G}          {C}
+para siempre sera el consolador
+               -2-
+esperemos la mañana gloriosa
+para dar la bienvenida al Dios de amor
+donde todo sera color de rosa
+en la santa fragancia del señor.
+               
+               -3-
+el cristiano fiel y verdadero
+y tanbien al obrero de valor
+y la iglesia esposa del cordero
+estaran en los brazos del señor.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Las Bodas Del Cordero
+{C}        {F}   {G}
+Estamos invitados 
+               {C}   {A}
+a una fiesta hermosa,
+                {Dm}  {G}
+sublime y tan gloriosa
+                   {C}
+que no habrá otra igual.
+{C}             {F}  {G}Las Bodas del Cordero, 
+                  {C}   {A}
+de Cristo con su iglesia,
+              {Dm}  {G} 
+velozmente se acerca, 
+                 {C}
+yo listo quiero estar.
+
+CORO:
+   {C}     {F}      {G}      {C}
+Aleluya, Aleluya, Aleluya, Aleluya...
+   {C}     {F}       {G}           {C}
+Aleluya, Aleluya, Aleluya, Gloria a Dios.
+
+{C}          {F}  {G}     
+Jesús ha preparado 
+            {C}   {A}
+lugares especiales,
+             {Dm}  {G}    
+donde los redimidos 
+             {C}
+podamos disfrutar
+              {F}   {G}     
+de ricas bendiciones 
+                {C}  {A}
+y hermosos galardones
+                {Dm}        
+y nuestras aflicciones 
+{G}         {C}
+podamos olvidar.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Yo Me Alegré
+           {Dm}
+//Yo me alegré 
+con los que me decian
+     {A7}            {Dm}   {D7}
+a la casa de Jehová iremos//
+
+       {Gm}         {C}
+ahí estaré (ahi estare)
+        {F}         {Bb}
+ahí estaré (ahi estare)
+    {A7}            {Dm}
+a la casa de Jehová iremos
+ENDSONG
+SONGTYPE Himno
+SONGNAME 265 El Rey Ya Viene
+   {E}
+las aves ya no cantan,
+   {A}            {F#}
+las calles quietas son,
+     {B}
+los obreros ya descanzan,
+     {A}       {E} {B}
+la cosecha ya paso,
+   {E}
+los padres y las madres
+       {A}        {F#}
+con sus hijos correran
+    {B}
+para recibir a cristo
+     {A}       {E} {B}
+su divino redentor.
+
+                " CORO "
+   {E}   {E7}      {A}     {F#}
+el rey ya viene, el rey ya viene
+   {B}
+yo oi la gran trompeta 
+     {A}        {E}{B}
+y su rostro yo vere
+  {E}     {E7}      {A}     {F#}
+el rey ya viene, el rey ya viene
+    {B}      {A}       {E}
+jesucristo ya viene por mi.
+
+                  -2-
+puedo ver las multitudes,puedo oir su gran refran
+pues el cristo ah venido,y ha vencido a satan
+y los salvos por su gracia enpiezan a cantar,
+alabanzas al cordero que los viene a levantar.
+
+                  -3-
+muy felices son los coros de los salvos por la fe
+y los presos libertados glorifican al gran rey
+los niños y los ancianos,los enfermos que el sano
+los leprosos ya linpiados todos cantan con fervor.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Tal Como Soy
+{G}                                 {Em}
+Tal como soy señor, sin nada que ofrecer
+                                    {C}
+mas que mi canción, no tengo mas que darte
+         {Am}      {D7}
+Pues todo es tuyo señor.
+
+{G}                                 {Em}
+Tal como soy señor sin nada que entregar
+                                    {C}
+mas que el corazón, me rindo todo a ti
+        {Am}           {D7}
+Tomame señor, tal como soy.
+
+               CORO
+  {G}              {D}
+// Aceptame como ofrenda de amor
+    {Em}              {C}
+como un sacrificio agradable en
+          {G}           {D}
+tu honor, grato perfume yo quiero
+     {C}
+ser señor. //
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Perfume a tus pies
+       {E}          {B}       
+Cuando pienso en tu amor 
+             {A}  
+Y en tu fidelidad
+               {B}   
+No puedo hacer más 
+                  {E}   
+Que postrarme y adorar
+                        {B}     
+Cuando pienso en como he sido 
+                       {A}    
+Y hasta donde me has traído
+             {B}  
+Me asombro de Ti
+
+-PRECORO- 
+
+{C#m7}     {B}         {A}             
+   Y no me quiero conformar 
+{C#m7}  {B}            {A}            
+   He probado y quiero más
+
+-CORO- 
+
+{E}                        {B/D#}     
+ Yo quiero enamorarme más de Ti
+                      {C#m7}   
+Enséñame a amarte y a vivir
+                        {B}   {A}       
+Conforme a tu Justicia y tu verdad 
+           {B/D#}    {E}           
+Con mi vida quiero adorar
+                             {B/D#}    
+Con todo lo que tengo y lo que soy 
+                        {C#m7}   
+Todo lo que he sido te lo doy
+            {B}     {A}      
+Que mi vida sea para ti 
+         {B/D#}       {E}               
+Como un perfume a tus pies
+
+-VERSO-
+
+         {E}         {B}       
+ Cuando pienso en tu cruz 
+                    {A}    
+Y en todo lo que has dado
+              {B}  
+Tu sangre por mi
+               {E}     
+Por llevar mi pecado
+                    {B}    
+Cuando pienso en tu mano 
+                       {A}    
+Que hasta aquí hemos llegado
+             {B}   
+Por tu fidelidad
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Sin Santidad Nadie Verá 
+          {D}    {A}          {D}
+//Sin santidad nadie verá al señor//
+
+         {G}
+//pero yo sé, pero yo sé
+         {D}
+que le veré, que le veré
+           {A}                {D}
+y con su espiritu me santificaré//
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Exáltate
+  {G}              {Em7} 
+Al borde de tu gran trono
+   {C}    {Am7}     {D}
+me postrare    hoy a ti,
+   {G}               {Em7}  
+tu reinas sobre principados
+  {C}  {Am7}              {D}
+sentado    a la diestra de Dios
+
+-CORO-
+
+ {G}                {Em7}  
+Exaltate ¡oh! Gran cordero
+  {C}       {Am7}     {D}
+tu vives hoy    y viviras.
+  {G}             {Em7} 
+Coronate con mi alabanza,
+  {C}       {D}     {G}
+tu nombre es el Vencedor.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Tu Amor Por Mi
+    {D}   {A/C#}     {Bm7}         {Bm/A}
+Tu amor por mi, es más dulce que la miel.
+      {G}       {D/F#}   {Em7}  {D/A} {A}
+Y tu misericordia es nueva cada  día.
+
+-CORO-
+
+      {G}        {D/F#}        {C}       {G/B}
+Es por eso que te alabo, es por eso que te sirvo
+      {D/A}     {E7/G#}       {Em7} {A} {D/F#}
+Es por eso que te doy todo mi amor.
+
+       {G}       {D/F#}        {C}        {G/B}
+Es por eso que te alabo, es por eso que te sirvo
+      {D/A}      {A7}          {D}
+Es por eso que te doy todo mi amor.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 60 Junto a la cruz
+{G}                {C}    {G}
+junto ala cruz do jesus murio
+          {E7}     {A7}   {D}
+junto ala cruz do salud pedi
+{G}      {G7}     {C}   {G}
+ya mis maldades el perdono,
+{Em} {Am}  {D}  {G}
+a su nombre gloria¡
+
+        " coro "
+{G}            {C}{G}
+! a su nombre gloria¡
+{E7}         {A7} {D}
+! a su nombre gloria¡
+{G}      {F}     {C/E} {Cm/Eb}
+ya mis maldades el perdono,
+{G}{Em}   {Am}  {D}  {G}
+! a    su nombre gloria ¡
+
+        -2-
+junto ala cruz donde le busque
+cuan admirable perdon me dio
+ya con jesus sienpre vivire,
+! a su nonbre gloria ¡
+
+        -3-
+fuente preciosa de salvacion
+que grande gozo yo pude hallar
+al encontrar en jesus perdon,
+! a su nonbre gloria ¡
+
+       -4-
+tu, pecador que perdido estas
+hoy esta fuente ven a buscar,
+paz y perdon encontrar podras,
+! a su nonbre gloria ¡
+ENDSONG
+SONGTYPE Himno
+SONGNAME 312 He peleado la batalla señor
+    {A}        {D}{E}    {A}
+al señor yo le quiero servir
+                             {Bm} {E}
+por que se que el me puede salvar
+    {Bm}    {E}      {Bm} {E}
+y promete llevarme a vivir,
+       {D}       {E}       {A}
+donde siempre le pueda yo mirar
+
+            "CORO"
+               {A7}      {D}
+he peleado la batalla , señor
+    {E}                    {A}
+seguire mi carrera al terminar.
+                  {C#m}{Cm}  {Bm}{E}
+pues tambien he guarda  do la fe
+       {D}    {E}          {A}
+solo espero me vengas a llevar.
+
+            _2_
+todo lo que tendré por luchar
+eso no se podrá comparar,
+con la gloria que cristo al venir,
+a su pueblo le tiene que dar,
+
+            -3-
+la corona de justicia ya esta,
+preparada al que luche hasta el fin.
+que el señor justo juez ha de dar
+en el dia que el ha de venir.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Es Más Que Una Canción
+{E}                {B}
+Es más que una canción
+           {F#m}
+es más que palabras
+        {Bsus4} {B}    {E}
+es mi corazón rendido a ti
+              {B}
+es lo mejor de mi
+             {F#m}
+lo que vengo a darte
+{A}                      {Bsus4}{B}
+ya no es suficiente una canción
+
+Puente:
+
+{F#m}          {C#m}
+    Lo que tu me pidas
+{A}           {Bsus4}{B}
+   yo te quiero dar
+
+Coro:
+
+ {A/C#}  {B/D#} {E}
+No vengo a pe   dir
+ {B/D#}      {C#m}
+no vengo a buscar
+{Bsus4}     {A}
+solo vengo a darte
+   {E/G#}   {Bsus4}
+mi ofrenda de amor
+  {A/C#} {B/D#}{E}
+hoy quiero to  car
+  {B/D#}   {C#m}
+tu fiel corazón
+{Bsus4}     {A}
+y darte las gracias
+  {E/G#} {F#m}{Bsus4}
+mi amado señor
+      {B}
+hoy te vengo a bendecir...
+
+{E} {B/D#} {C#m} {Bsus4} {A} {B}
+...a ti.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 301 Por La Inefable Luz
+         {G}           {Am}{D}
+Por la inefable luz del día
+          {Am}     {D}  {G}
+que tanto alegra el corazón
+                      {Am} {D}
+al despertarnos diariamente
+          {Am}  {D}   {Bm}{Bbm} {Am}
+cuando admiramos el fulgor
+   {D}    {G}  {G7}    {C}  {Cm}
+de una alborada rubia y bella
+            {G}   {D}   {G}
+gracias sean dadas a mi Dios
+
+Por el aroma de las flores
+én cuyas galas de color
+vemos la mano omnipotente
+cuyo pincel las matizó
+por tantas tantas maravillas
+gracias sean dadas a mi Dios
+
+por ese pan de cada día
+que El nos concede con amor
+infatigable, bueno y santo
+a todo ser de la creación
+por ese pan que nos da vida
+gracia sean dadas a mi Dios
+
+y por el techo que nos cubre
+y por su santa bendición
+y por la vida de mis padres
+que me arrullaron con amor
+por tantas dádivas preciosas
+gracias sean dadas a mi Dios
+
+por esa chispa milagrosa
+de inteligencia que El nos dió
+para pensar en lo infinito
+con alas bellas de amor
+por ese excelso privilegio
+gracias sean dadas a mi Dios
+
+por esa dicha tan insigne
+que en su piedad nos dispensó
+mandano a su hijo sacrosanto
+a consumar la redención
+de los humanos pecadores
+gracias sean dadas a mi Dios
+ENDSONG
+SONGTYPE Himno
+SONGNAME 126 Mi Deleite
+    {G}                   {C}
+Mi deleite es andar con el señor, que me salvó
+       {G}              {Am} {D}
+con preciosa sangre carmesí;
+      {G}                  {C}
+de las dudas y oscuridad mi alma libertó
+        {G}           {D}    {G}
+gloria a Dios es mi deleite aquí
+
+CORO
+                       {Am} {D}
+Mi deleite es andar con El
+     {Am}      {D}     {G}
+Mi deleite es andar con El
+                {G7}       {C}     {Cm}
+El mis pasos guiará, el mi vida velará
+     {G}      {D}       {G}
+mi deleite es andar con El
+
+Mi deleite es saber, que el señor conmigo está
+en las sombras y en el cruel dolor
+en las penas y en las pruebas, el jamás me faltará
+gloria a Dios, El es mi salvador
+
+Mi deleite eterno ha de ser morar con El allá
+Do jamás le dejaré de ver
+oh, que gloria ha de ser,
+cuando mi lengua cantará
+con Jesús voy a permanecer
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Hay Momentos Que Las Palabras
+      {C}                         {Am}
+Hay momentos que las palabras no alcanzan
+                     {Dm}   {G}
+para decir lo que yo siento
+             {C} {F}{G}  
+querido salvador.
+
+      {C}                         {Am}
+Hay momentos que las palabras no alcanzan
+                     {Dm}   {G}
+para decir lo que yo siento
+               {C} {C7} 
+aquí en mi corazón.
+
+CORO
+
+          {F} {G}                   {Em}  
+Yo te agradezco, por todo lo que haz hecho,
+{Am}              {Dm}   
+   por todo lo que haces 
+{G}                {C} 
+   y todo lo que harás.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Somos Iglesia
+{G}        {Bm}
+  Desolados ya no más
+{D}        {A}         {G}
+  Somos herederos con Jesús
+             {Bm}
+  Extranjeros ya no más
+{D}          {A}          {G}  {A}
+  Ahora somos hijos por la Cruz.
+
+CORO:
+
+       {D}             {A}
+Somos iglesia reino de luz
+          {Bm}              {A}
+Nuestra bandera la cruz de Jesús
+         {D}            {A}
+Somos iglesia, somos nación
+           {Bm}               {A}
+La tumba vacía es nuestra canción.
+
+
+{G}          {Bm}
+  Extraviados ya no mas
+{D}              {A}              {G}
+  Nos llamas de vuelta a nuestro hogar
+           {Bm}
+  Separados ya no más
+{D}                {A}        {G} {A}
+  Siempre a nuestro lado tu estás.
+
+CORO:
+
+       {D}             {A}
+Somos iglesia reino de luz
+          {Bm}              {A}
+Nuestra bandera la cruz de Jesús
+         {D}            {A}
+Somos iglesia, somos nación
+           {Bm}               {A}
+La tumba vacía es nuestra canción.
+
+              {D}    {G}        {A} 
+//La tumba vacía es nuestra canción//
+
+PUENTE:
+
+              {D}       {G} 
+Vivo estás en gloria y honor
+              {D}     {A} 
+  Reinas en victoria Señor
+               {Bm}       {G} 
+  Nuestro ser entona a una voz
+              {D}               {A} 
+  Cristo eres Dios, Cristo eres Dios
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Salmo 23 (Un Corazón)
+     {C}                         {F}
+Tengo todo, eres todo lo que necesito
+      {C}                              {F}
+Tú me llevas al lugar donde encontré descanso
+{G}                        {Am}        {F}
+//Renuevas mis fuerzas, tú guías mis pasos//
+
+
+CORO
+
+   {Am}           {F}
+Tu amor inagotable es
+               {C}         {Em7}
+Tu bondad me persigue, te persigo
+     {Am}               {F}
+En tu mesa me diste un lugar
+              {C}      {Em7}
+Me recibes en casa para siempre
+
+PARTE MUSICAL
+{C}   {F}
+
+
+VERSO 2
+
+       {C}                          {F}
+En tus brazos cada miedo y temor se apagan
+       {C}                             {F}
+Tú me enseñas a confiar cuando mi fe desmaya
+{G}                       {Am}        {F}
+//Renuevas mis fuerzas, tú guías mis pasos//
+
+PARTE MUSICAL 2
+{F}  {G}  {Am}  {C/E}
+
+PUENTE
+      {F}         {G}
+Aunque pase por el valle
+      {Am}           {C/E}
+de las sombra y muerte
+     {F}          {G}
+Ya no temo, yo confío,
+     {Am}      {C/E}
+Tú estás conmigo
+     {F}        {G}
+Y si caigo o me pierdo, 
+     {Am}       {C/E}
+vienes a buscarme
+        {F}          {G}
+No me olvidas y me encuentras
+    {Am}        {C/E}
+Y nunca te rindes
+ENDSONG
+SONGTYPE Himno
+SONGNAME 192 Soy Soldado De Cristo
+      {D}                {G}            {D}
+Soy Soldado De Cristo, De Cristo El Salvador
+    {A}               {G}   {A}    {D}
+Peleare yo por el la batalla de la fe,
+             {D7}       {G}       {Gm}
+con mis ojos así puestos en mi capitán
+    {D}      {A}         {G}{D}
+pelearé yo en contra de sat án
+
+CORO
+       {D}
+Oíd la voz de Cristo que nos llama,
+      {A}           {D}
+a la batalla, a la batalla,
+Oíd la voz de cristo que nos dice
+        {E7}          {A}
+¿Quienes van hoy a pelear?
+         {D}          {G}
+yo soy soldado de Jesucristo
+     {A}              {G}   {D}
+y por fe la lucha venceré si si
+             {D7}     {G}   {Gm}
+yo soy soldado de jesucristo
+    {D}      {A}          {D}
+y victoria y triunfo obtendré
+
+La palabra de Dios, es la espada de la fe,
+que me ayuda a pelear por Jesús el salvador
+Lucharé, triunfare, con las huestes del señor,
+me verás hoy peleando con valor
+
+¿No quisieras venir y seguir al salvador?
+y pelear hoy con El la batalla de la fe
+si eres fiel al señor la corona el te dará
+y con El gozarás felicidad
+
+Pronto yo bien lo sé la batalla cesará
+y con cristo Jesús reinaremos más allá
+Oh que dicha indecible será con El vivir
+Donde no hay más tristeza ni sufrir
+ENDSONG
+SONGTYPE Himno
+SONGNAME 248 Salid Valiente
+        {D}           {G}       {G}
+Salid valiente oh batallón de Israel
+                                      {Em}{A}
+Cantad el triunfo y la victoria por la fe
+        {Em}         {A}             {Em}{A}
+oh juventud que tu simiente esta en Jesús
+      {Em}        {A}          {F#m}{Fm} {Em}
+Eterna roca de los siglos firme es
+   {A}    {D}            {G}      {D}
+ya prorrumpid con grandes voces de amor
+       {D7}                      {G} {Gm}
+el evangelio de justicia y santo amor
+                                    {D}  {Bm}
+y este mensaje por el mundo han de llevar
+          {Em}         {A}       {D}
+las almas gimen por el yugo de satán
+
+CORO
+{D}
+hoy las hustes de Jehová ya se preparan
+                 {Em}{A}
+a luchar contra satán
+   {Em}          {A}          {Em}
+y valientes ya se miran los soldados
+{A}   {Em}  {A} {F#m}{Fm} {Em}
+sus espadas empu ñar
+{A}    {D}
+aunque sangre de los mártires no cueste
+     {D7}      {G} {Gm}
+derramada quedará
+                  {D}   {Bm}   {Em}
+en los campos de batalla ya sembrado
+{A}                       {D}
+siempre el evangelio brotará
+
+Turbas celestes de los ángeles de luz
+serán ayuda a los soldados de Jesús
+cuando en la lucha la justicia de Jehová
+irá hacia el triunfo resguardando sin cesar
+y manifiesta luz del alba se verá
+y de vanguardia ira la gloaria de Jehová
+cuando invocares a Jesús presto será
+a responderte si le sirves en verdad
+
+Marchar valientes a pelear contra satán
+oh juventud sin vacilar avanza ya
+la voz potente que resuena por doquier
+que luches siempre por Jesús es tu deber
+Detén el sol si presto estás para triunfar
+el enemigo humillado quedará
+como Josué por la gracia y por la fe
+a su mandato el sol le pudo obedecer
+ENDSONG
+SONGTYPE Himno
+SONGNAME 179 Yo quiero trabajar
+    {G}                   {D7}
+yo quiero trabajar por el señor
+                                {G}
+confiando en su palabra y en su amor
+                   {G7}
+quiero yo cantar y orar
+     {C}
+y ocupado siempre estar
+      {G}  {D7}  {G}
+en la viña del señor.
+
+      " CORO "
+trabajar y orar
+                          {D7}
+en laviña en la viña del señor
+         
+        {G}      {G7}
+si, mi anhelo es orar
+     {C}           {Cm}      {G}  {D7}  {G}
+y ocupado sienpre estar en la viña del señor
+
+                  -2-
+yo quiero cada dia trabajar 
+y esclavos del pecado libertar 
+conducirlos a jesús,
+nuestro guia, nuestra luz,
+en la viña del señor.
+
+                  -3-
+yo quiero ser obrero de valor,
+confiando en el poder del salvador,
+el que quiera trabajar
+hallara también lugar
+en la viña del señor.
+ENDSONG 
+SONGTYPE Himno
+SONGNAME 17 A Cristo Doy Mi Canto
+  {E}          {A} {E}
+A cristo doy mi canto
+   {B}          {E}
+el salva el alma mía
+               {A}{E}
+me libra de quebranto
+ {B}           {E}{E7}
+y con amor me guía
+
+CORO
+ {A}           {E}
+Ensalce nuestro canto
+   {B}          {A}{E}
+tu sacrosanta historia
+     {A}          {E}
+es nuestro anhelo santo
+ {B}           {A}{E}
+mirar Jesús tu gloria
+
+Jamás dolor ni agravio
+Enlutarán la mente
+si a cristo nuestros labios
+bendicen dulcemente
+
+viviendo he de ensalzarte
+y si abandono el suelo
+veránme ir a adorarte
+los angeles del cielo
+
+tu nombre bendecido
+alegra el alma mía
+tu nombre es en mi oído
+dulcisima armonia
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Hablemos De Cristo
+            {G}
+Hablemos de cristo
+               {C}
+el rey de reyes es
+          {D7}
+señor de señores
+            {G}
+por la eternidad
+             
+el es el camino
+               {C}
+la vida y la verdad
+           {G}
+hablemos de Cristo
+{D7}   {G}
+más y más
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Gracia Sublime Es
+{B}           {Bsus} {B}
+Quien rompe el poder     del pecado
+{E}         {Esus} {E}
+su amor es fuerte  y poderoso
+{G#m}              {F#}            {E}
+    El rey de gloria el rey de majestad
+
+VERSO 2
+{B}           {Bsus} {B}
+ Conmueve al mundo con su estruendo
+{E}       {Esus} {E}
+ Y nos asombra con maravillas
+{G#m}             {F#}             {E}
+    El rey de gloria el rey de majestad
+
+CORO
+                {B}                 {E}
+Gracia sublime es,   perfecto es tu amor
+           {G#m}                {F#}
+Tomaste mi lugar cargaste tu mi cruz
+              {B}                {E}
+Tu vida diste ahí y ahora libre soy
+{G#m}            {F#}                   {B}
+   Jesús te adoro por lo que hiciste en mí
+
+VERSO 3
+
+{B}           {Bsus} {B}
+Pusiste en orden todo el caos
+{E}        {Esus} {E}
+Nos adoptaste  como tus hijos
+ {G#m}                {F#}          {E}
+    El rey de gloria el rey de majestad
+
+VERSO 4
+
+{B}         {Bsus} {B}
+El que gobierna con su justicia
+{E}         {Esus} {E}
+ Y resplandece con su belleza
+{G#m}                 {F#}         {E}
+    El rey de gloria el rey de majestad
+
+PUENTE
+       {B}
+   ///Digno es el cordero de Dios,
+  {E}
+Digno es el rey que la muerte venció///
+
+       {G#m}
+   Digno es el cordero de Dios,
+  {E}
+Digno es el rey que la muerte venció
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Oceanos
+Tu voz me llama a las aguas
+Donde mis pies pueden fallar
+Y allí te encuentro en lo incierto
+Caminaré sobre el mar
+
+Y a Tu nombre, clamaré
+En Ti, mis ojos, fijaré
+En tempestad, descansaré en Tu poder
+Pues Tuyo soy
+Hasta el final
+
+Tu gracia abunda en la tormenta
+Tu mano, Dios, me guiará
+Cuando hay temor en mi camino
+Tú eres fiel y no cambiarás
+
+Y a Tu nombre, clamaré
+En Ti, mis ojos, fijaré
+En tempestad, descansaré en Tu poder
+Pues Tuyo soy
+Hasta el final
+
+Que Tu espíritu me guíe sin fronteras
+Más allá de las barreras
+A dónde Tú me llames
+Tú me llevas más allá de lo soñado
+Donde puedo estar confiado
+Al estar en Tu presencia
+
+Que Tu espíritu me guíe sin fronteras
+Más allá de las barreras
+A dónde Tú me llames
+Tú me llevas más allá de lo soñado
+Donde puedo estar confiado
+Al estar en Tu presencia
+
+¡Yeah! Yeah
+¡Oh! Mi Jesús
+¡Mi Dios!
+
+Y a Tu nombre, clamaré
+En Ti, mis ojos, fijaré
+En tempestad, descansaré en Tu poder
+Pues Tuyo soy
+Hasta el final
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Emanuel (Dios Aqui)
+{A}         {D}       {A/C#} {D}
+El día en que el mundo cambió
+{A}      {D}      {A/C#}    {D}
+Cristo, el Salvador nació
+{A}            {D}      {A/C#}     {D}
+Escucha las voces de ángeles cantar
+{A}              {D}      {A/C#}  {D}
+Gloria en lo alto y buena voluntad
+
+VERSO 2:
+{A}      {D}       {A/C#}  {D}
+La luz del mundo descendió
+{A}      {D}      {A/C#}   {D}
+La tierra entera se alegró   
+{A}            {D}      {A/C#}     {D}
+Escucha las voces de ángeles cantar
+{A}              {D}      {A/C#}  {D}
+Gloria en lo alto y buena voluntad
+
+CORO:
+ {D}             {A}      {F#m}  {E}
+Levantemos las voces al cielo
+ {D}            {A}         {F#m}  {E}
+Al coronar a Cristo Rey Eterno
+{Bm}            {F#m}
+Emanuel  Dios Aquí
+{D}               {E}
+Te cantamos a Ti
+ {Bm}       {A/C#}    {E}
+Ha nacido Nuestro Rey
+
+INTRO
+
+VERSO
+{A}         {D}       {A/C#}  {D}
+Un niño nuestra salvación
+{A}      {D}      {A/C#}  {D}
+Dios a su hijo Él envió
+{A}            {D}      {A/C#}   {D}
+Escucha las voces de ángeles cantar
+{A}              {D}      {A/C#}  {D}
+Gloria en lo alto y buena voluntad
+
+CORO
+
+PUENTE
+                {D}
+Gloria en lo alto
+                {E}
+Gloria en lo alto
+{A/C#}                    {F#m}
+Toda rodilla se doblará ante ti
+            {D}
+Te adoramos
+              {E}
+Te exaltamos
+{A/C#}                     {F#m}
+Hoy nos rendimos, postrados a tus pies   
+
+
+                {D}
+Gloria en lo alto
+              {E}
+Gloria en lo alto
+{A/C#}                  {F#m}
+Toda rodilla se doblará ante ti
+             {D}
+Jesús Mesías
+              {E}
+Te entregamos
+{A/C#}                       {F#m}
+Nuestros tesoros e incienso ante ti
+
+CORO
+
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Mi Alma Te Anhela Alabar
+   {D}      {A}     {Bm}  {F#m}
+Mi alma te anhela alabar
+   {G}      {Em}         {A}
+Mi alma te anhela adorar
+        {G}               {A}
+Porque fuera de ti no hay mas
+      {F#m}      {Bm}
+No hay nada que desear
+      {Em}     {A}          {D}
+Solo a ti, mi Señor, solo a ti
+
+       {D}      {A}     {Bm}{F#m}
+Con mi boca te quiero cantar
+        {G}      {Em}     {A}
+Con mis manos te quiero servir
+   {G}         {A}
+Y siempre ante ti
+  {F#m}      {Bm}
+agradandote Señor
+       {Em}    {A}          {D}
+Solo a ti, mi Señor, solo a ti
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Vamos Escalando Peldaños
+{Dm}
+//Vamos escalando peldaños
+                  {A}
+Vamos mirando esa cruz
+Sigamos el camino angosto
+                     {Dm}
+Con Cristo es mucho mejor//
+
+{D}                    {Gm}
+//Ya viene la recompensa
+{C}              {F}
+Ya no voy a llorar
+{Bb}                {A}
+Tengo a Cristo en mi vida
+                {Dm}
+Por eso puedo escalar//
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Gozate Delante Del Señor
+{Dm} 
+GOZATE DELANTE DEL SEÑOR
+          {C}      {Dm} 
+POR QUE EL ES, TU REY (x2)
+{Dm}      {F}      {Gm}   {A#} {Dm} 
+EL ES, EL ES, EL ES, EL ES, TU REY
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Que Sería De Mi
+{G}            {D}     
+ ¿Qué sería de mí si 
+               {C}
+ no me hubieras perdonado?,
+{G}             {D}     
+ ¿Dónde estaría hoy si 
+               {C}
+ no me hubieras alcanzado?,
+   {G}                {D}
+Tendría un vacío en mi corazón,
+    {Em}               {C}
+Vagaría sin rumbo, sin dirección.
+
+      {G}       
+Si no fuera por 
+   {D}              {C}
+tu gracia y por tu amor,
+      {G}           
+Si no fuera por 
+  {D}               {C}
+tu gracia y por tu amor.
+
+    {Am}                {Em7}                
+//Sería como un pájaro herido 
+                   {D}
+que se muere en el suelo,
+  {Am}                  {Em7}                
+Sería como un ciervo que brama 
+                 {D}
+por agua en el desierto.
+
+{G/B}     {C}          {D}             {Em7}
+     Si no fuera por tu gracia y por tu amor,
+     {C}          {D}               {G}
+Si no fuera por tu gracia y por tu amor//
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Tus Ojos Revelan
+{G}                   {Em}
+Tus ojos revelan que yo nada puedo esconder
+          {C}        {Am}         {D}
+que no soy nada sin ti   Oh fiel Señor.
+{G}                       {Em}      
+Todo lo sabes de mí cuando miras el corazón,
+       {C}       {Am}            {D}
+todo lo puedes ver  muy dentro de mí.
+{G/B}   {C}         {G/B}   {C}  
+Lleva mi vida. A una sola verdad
+   {G/B}     {C}        {G/B}     {D}
+Que cuando me miras nada puedo ocultar
+
+
+{G}     {D/F#}   {Em}                    {D}  {C}
+Se que es tu fidelidad que lleva mi vida más allá
+         {Am}       {D}
+de lo que puedo imaginar.
+{G}  {D/F#}       {Em}               {D}     {C}
+Se que no puedo negar que tu mirada puesta en mi 
+   {D}         {G}
+me llena de tu Paz.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Torre Fuerte
+{Em}              {C}          {Em}
+torre fuerte es el nombre del señor
+{Em}              {C}          {Em}
+torre fuerte es el nombre del señor
+
+ {G}           {Am}
+a el correrá el justo
+{C}   {D}    {Em}
+y levantado sera
+ {G}           {Am}
+a el correrá el justo
+{C}   {D}    {Em}
+y levantado sera
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Rey De Paz
+    {D}     {G}  {D}
+Una estrella Anunció
+        {Bm}  {A}    {D}    
+Que en Belén Jesús nació
+    {D}      {G}  {D}
+Por amor Él descendió
+        {Bm}     {A} {D} 
+La salvación Con Él llegó
+
+CORO
+   {D} {G} {D} {A}
+Angelicales voces
+   {D}   {G}     {D} {A}
+Proclaman hoy su nombre
+{Bm}      {D}
+Rey de paz
+{G}      {A}   {D}
+Salvador del mundo
+
+2 ESTROFA
+    {D}     {G}  {D}
+Siendo Dios Se encarnó
+        {Bm}  {A}    {D}    
+La humanidad Él rescató
+    {D}     {G}  {D}
+Sentado en Su trono está
+        {Bm}  {A}    {D}    
+Jesús el Rey De majestad
+
+CORO
+   {D} {G} {D} {A}
+Angelicales voces
+   {D}   {G}     {D} {A}
+Proclaman hoy su nombre
+{Bm}      {D}
+Rey de paz
+{G}      {A}   {D}
+Salvador del mundo
+
+{D} {G} {D} {A}
+Santo Santo Santo
+   {D}   {G}     {D} {A}
+Jesús te adoramos
+{Bm}      {D}
+Rey de paz
+{G}      {A}   {D}
+Salvador del mundo
+
+
+{D}
+Venid y adoremos
+              {A}
+Venid y adoremos
+{G}           {A}
+Venid y adoremos
+    {D} {A}      {D}
+{A} Cristo el Señor
+
+CORO
+   {D} {G} {D} {A}
+Angelicales voces
+   {D}   {G}     {D} {A}
+Proclaman hoy su nombre
+{Bm}      {D}
+Rey de paz
+{G}      {A}   {D}
+Salvador del mundo
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Naciste En Mi Corazón
+
+INTRO X4
+{Bm} {A} {G}
+
+      {D}                    {A}           {D}
+Yo no sé si esta fecha corresponde a la correcta
+   {G}              {Em}      {A}
+de cuando en Belén viniste a nacer
+{D}                         {F#m}
+Yo no sé si el lugar era el mas apropiado
+         {G}               {Em}    {F#}
+para que alli naciera el Mesías anhelado
+
+    {Bm}      {A}     {G}
+Y me temo que una tradicion
+                      {D}   {F#7}
+poco a poco termine empañando
+     {Bm}      {A}    {G}
+La verdad y la única razon
+                            {A}
+por la cual tu te hiciste humano
+
+coro
+         {D}     {A}    {Bm} {A}
+Es que naciste en mi corazón
+    {Em}      {G}         {A}
+Y tu paz y tu amor me hicieron comprender
+          {D}        {A}    {Bm}     {A}
+Que no es otro que en mi corazón el lugar
+      {Em}             {A} 
+Donde siempre quisite nacer
+
+      {D}                    {A}           {D}
+Yo no sé si eran tres los que de oriente vinieron
+   {G}              {Em}      {A}
+aquellos magos que una ofrenda trajeron
+{D}                         {F#m}
+No sé si los camellos venian buscando pasto
+         {G}               {Em}    {F#}
+o si habia un arbolito con muchos regalos
+
+    {Bm}      {A}     {G}
+Y me temo que una tradicion
+                      {D}   {F#7}
+poco a poco termine empañando
+     {Bm}      {A}    {G}
+La verdad y la única razon
+                            {A}
+por la cual tu te hiciste humano
+
+coro...
+ENDSONG
+SONGTYPE Himno
+SONGNAME 195 Hay un canto nuevo
+{D}                     {Em}
+hay un canto nuevo en mi ser,
+{A}               {D}
+es la voz de mi jesus,
+                       {Em}
+que me dice ven a descansar"
+{A}          {G}    {A} {D}
+tu paz conquisté en la cruz.
+
+       "CORO"
+               {Em} {A}
+cristo, cristo, cristo,
+             {D}
+nombre sin igual
+  {B7}       {E7}
+llena siempre mi alma,
+{A}              {D}
+de esa nota celestial.
+
+        -2-
+naufrago en pecado me encontré,
+sin paz en mi corazon,
+mas en cristo mi señor halle,
+dulce paz y proteccion.
+
+        -3-
+tengo de su gracia celestial,
+bajo sus alas de amor,
+riquesas que flullen a raudal,
+desde el trono del señor
+
+        -4-
+por las aguas hondas me llevo
+pruebas en mi senda halle,
+por sendero aspero me guio.
+mas sus huellas seguire,
+
+        -5-
+cristo en las nubes volvera,
+bajo el bello cielo azul,
+el entonces mi alma llevara,
+a vivir en gloria y luz.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 102 quiero seguir las pisadas
+{G}                {C}         {G}
+quiero seguir las pisadas del maestro
+                       {A7}   {D}
+quiero ir en pos de mi rey y señor
+{G}            {C}      {G}  
+y modelando por el mi caracter,
+         {A7}    {D}     {G}
+canto con gozo a mi redentor.
+
+               "CORO"
+{D}   {C}
+que hermoso es seguir
+     {G}
+las pisadas del maestro
+  {D}             {C}  {D}  {G}
+siempre en la luz cerca de jesus,
+       {C}
+que hermoso es seguir
+     {G}         {Em}
+las pisadas del maestro
+{Am}  {D}   {G}
+en su santa luz
+
+               -2-
+ando mas cerca de el que meguia
+cuando el maligno me quiera tentar
+siempre confiado en cristo mi fuerte
+debo con gozo  su nonbre enzalsar.
+
+               -3-
+sigo sus pasos de tierno cariño
+misericordia amor  lealtad;
+viendo hacia el por el don de la gracia
+voy al descanso gloriosa ciudad.
+
+               -4-
+quiero seguir las pisadas del maestro
+sienpre hacia arriba con el quiero andar
+viendo a mi rey en gloriosa hermosura.
+con el en gloria podre descansar.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 220 Grande gozo
+{D}         {G}           {D}
+grande gozo hay en mi alma hoy,
+      {E7}     {A7}  {D}
+pues jesús con migo esta,
+     {D}    {G}          {D}  {Bm}
+y su paz que ya gozando estoy
+   {E7}         {A}    
+por siempre durara.
+
+       "CORO"
+      {D}             {G} {D}
+grande gozo ! cuan hermo  so¡
+             {B7}         {E7} {A7}
+paso todo el tiempo bien feliz
+      {D}    {C}  {G/B}        {Gm/Bb}
+poque veo de cristo la sonriente faz,
+      {D} {D#°} {Em} {A}  {D}
+grande go  zo   sien to en mi.
+
+        -2-
+hay un canto en mi alma hoy,
+melodias a mi rey,
+en su amor feliz y libre soy
+y salvo por la fe.
+
+        -3-
+paz divina hay en mi alma hoy,
+por que cristo me salvo,
+las cadenas rotas ya estan,
+jesús me libertó
+
+        -4-
+gratitud hay en mi alma hoy,
+y alabanzas a jesus,
+por su gracia ala gloria voy,
+gozandome en la luz
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Tu Nombre Levantaré
+{E}      {A}       {B} {A}{B}
+   tu nombre levantaré
+{E}    {A}         {B} {A} {B}
+   me deleito en adorarte
+{E}      {A}             {B}        {A}{B}
+   te agradezco que en mi vida estes
+{E}      {A}        {B} {A} {B}
+   que vinieras a salvarme
+
+-CORO- 
+
+{E}          {A}    {B}    {A} {B}    {E}
+  dejaste el trono para mostrarnos la luz,
+        {A}          {B}      {A} {B}  {E}
+  de tu trono   A la cruz y mi deu da pagar
+        {A}       {B}       {G#m}        {C#m}
+  de la cruz al morir, de la muerte a tu trono
+      {A}   {B}  {E}
+tu nombre levantaré
+ENDSONG
+SONGTYPE Himno
+SONGNAME 42 Suenen Dulces Himnos
+             {E}     {A}         {E}
+Suenen dulces himnos, gratos al Señor,
+{C#m}           {F#m}    {B} {E}
+y óiganse en concierto universal.
+                    {A}         {E}
+Desde el alto cielo baja el Salvador
+{C#m}    {F#m} {B}    {E}
+para beneficio del mortal.
+
+-CORO-
+{E}      {F#m}       {A}  {B}  {E}
+¡Gloria, gloria sea a nuestro Dios!
+{A}     {F#7}              {B}
+¡Gloria! sí, cantemos a una voz.
+               {E}
+Y el cantar de gloria,
+{A}           {E}
+que se oyó en Belén,
+{C#m}{F#m}    {B}       {E}
+sea   nuestro cántico también.
+
+Salte de alegría, lleno el corazón,
+la abatida y pobre humanidad.
+Dios se compadece viendo su aflicción,
+y le muestra buena voluntad.
+
+Lata en nuestro pecho noble gratitud
+hacia el que nos brinda redención;
+y a Jesús el Cristo, quien nos da salud,
+tributemos nuestra adoración.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 36 Oh Santisimo
+{A}
+Oh, santísimo, felicísimo
+{B7}           {E}
+Grato tiempo de Navidad
+Cristo el prometido
+{A}
+Ha por fin venido
+                  {D} {E} {A}
+Alegría, alegría, cristiandad
+
+Oh, santísimo, felicísimo
+Grato tiempo de Navidad
+Al mortal perdido
+Cristo le ha nacido
+Alegría, alegría, cristiandad
+
+Oh, santísimo, felicísimo
+Grato tiempo de navidad
+Coros Celestiales
+Cantan los mortales
+Alegría, alegría, cristiandad
+
+Oh, santísimo, felicísimo
+Grato tiempo de navidad
+Cantanle loores
+Magos y pastores
+Alegría, alegría, cristiandad
+
+Oh, santísimo, felicísimo
+Grato tiempo de navidad
+Tan dichosa nueva
+Al mortal conmueva
+Alegría, alegría, cristiandad
+
+Oh, santísimo, felicísimo
+Grato tiempo de Navidad
+Príncipe del cielo
+Danos tu consuelo
+Alegría, alegría, cristiandad
+ENDSONG
+SONGTYPE Himno
+SONGNAME 52 Gloria In Excelsis Deo
+{C}       {F}      {G}
+Ángeles cantando están
+          {C}
+Tan dulcísima canción;
+            {F}
+Las montañas su eco dan
+{G}         {C}
+Como fiel contestación.
+
+-CORO-
+{C} {F} {C} {G}
+Gloooooooooooooria, 
+{F}        {G}
+en lo alto gloria,
+{C} {F} {C} {G}
+Gloooooooooooooria, 
+{F}        {G}      {C} 
+en lo alto gloria a Dios.
+
+Los pastores sin cesar
+Sus loores dan a Dios;
+Cuán glorioso es el cantar
+De su melodiosa voz.
+
+Oh, venid pronto a Belén
+Para contemplar con fe
+A Jesús, autor del bien,
+Al recién nacido Rey.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 38 Noche De Paz
+{F}
+Noche de paz, noche de amor
+{C}           {Bb}  {F}
+todo duerme en derredor
+{Bb}                  {F}
+entre los astros que esparcen su luz
+{Bb}                 {F}
+bella anunciando al niñito Jesús
+{C}                  {F}
+Brilla la estrella de paz
+            {C}       {F}
+brilla la estrella de paz
+
+Noche de paz, noche de amor
+oye humilde el fiel pastor,
+coros celestes que anuncian salud
+gracias y glorias en gran plenitud
+por nuestro buen redentor
+por nuestro buen redentor
+
+noche de paz, noche de amor
+ved que bello resplandor
+luce en el rostro del niño Jesús
+en el pesebre del mundo la luz
+astro de eterno fulgor
+astro de eterno fulgor
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El es el Rey
+{Em}              {C}
+  El es el Rey infinito en poder
+{Em}                  {C}
+  El es el Rey de los cielos
+{Em}       {C}
+  seré para El siervo fiel
+        {G}                 {D}
+pues mi vida compró con Su amor
+
+{Em}                 {C}
+  El es el Rey lo confiesa mi ser
+{Em}                 {C}
+  El es el Rey de los siglos
+{Em}        {C}
+  mi vida la rindo a Sus pies
+      {G}              {D}
+El es Rey sobre mi corazón
+
+-CORO-
+
+{Em}          {C}
+ El es el Rey, El es el Rey
+{G}                {D}
+ El es el Rey de mi vida
+{Em}          {C}
+ El es el Rey, El es el Rey
+{G}              {D}
+ reina con autoridad
+    {C}         {D}
+ Su reino eterno es
+   {Em}           {C}
+ Su trono el cielo es
+{Am}
+ El es el Rey
+     {D}                   {Em}
+ que viene a Su pueblo a llevar.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Con Mi Dios
+{Em}           {D}         {Em}   {C} {D}    
+¡Con mi Dios yo saltaré los muros,
+{Em}        {D}             {Em}
+con mi Dios ejercitos derribaré!
+
+-CORO-
+
+{G}               {D}            {Em}
+   El adiestra mis manos para la batalla,
+{D}                                 {Em}        
+puedo tomar con mis manos el arco de bronce,
+{D}             {G}
+Él es escudo, la roca mía,
+{D}                  {G}
+Él es la fuerza de mi salvación,
+ {B7}              {Em}  
+mi alto refugio, mi fortaleza,
+{Am} {B7}          {Em}  
+ Él   es, mi libertador.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 96 Todo a cristo
+{A}          {E}
+todo a cristo yo me rindo
+{D}           {E}   {A}
+con el fin de serle fiel
+{A}          {E}
+para siempre quiero amarle,
+{D}        {E}    {A}
+y agradarle solo a el,
+         
+          "CORO"
+             {E}                {A}
+yo me rindo a el , yo me rindo a el ,
+             {D}
+todo a cristo yo me entrego,
+{A}   {E}    {A}
+quiero serle fiel.
+
+            -2-
+todo a cristo yo me rindo
+a sus pies postrado estoy,
+los placeres he dejado
+y le sigo desde  hoy
+
+            -3-
+todo a cristo yo e rindo
+si, de todo corazon,
+yo le entrego alma y cuerpo
+busco hoy su santa uncion.
+
+            -4-
+todo a cristo he rendido
+siento el fuego de su amor
+oh que gozo hay en mi alma ¡¡
+!! gloria gloria al señor¡¡
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Libre yo soy libre
+{G}         {Em}
+Libre yo soy libre
+     {C}                       {D}
+las cadenas del pecado han sido rotas.
+{G}        {Em}
+Libre yo soy libre
+
+       {C}          {D}         {G}
+para cantar, para danzar, para gozar.
+
+
+CORO:
+
+     {Em}        {D}
+He vencido, al enemigo
+
+      {C}            {D}          {G}
+por la sangre de Jesucristo yo soy libre.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Ya ha llegado el momento de
+  {G}                {Em}
+///Ya ha llegado el momento de///
+  {C}     {D}
+Alabar Su Nombre
+   {C}     {D}
+Exaltar Su Nombre
+  {C}     {D}
+Adorar Su Nombre
+    {C} {D}           {G}
+Jesucristoo..El es el Rey.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Vine a alabar a Dios
+{A}      {E}   {F#m} {E}
+Vine a alabar a Dios
+{D}      {A}  {Bm} {E}
+vine a alabar a Di  os
+{A}      {E}   {F#m}
+Vine a alabar su santo nombre
+{D}       {E}   {A}   {A7}
+¡Vine a alabar a Dios!
+
+{D}         {E}
+El vino a mi vida,
+ {C#m}        {F#m}
+un día muy especial,
+   {Bm}       {E}
+cambió mi corazón
+      {A}            {A7}
+me enseñó un camino mejor;
+ {D}          {E}
+y esa es la razón
+  {C#m}         {F#m}
+por la que canto hoy:
+{D}       {E}   {A}
+¡Vine a alabar a Dios!
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Por un momento
+{A}                     {C#m}   {F#m}
+  Por un momento en Tu presencia aahhh
+                       {D}
+Por un instante de Tu amor
+{A}                    {C#m}  {F#m}
+  Por un destello de Tu gloria aahh
+                   {D}
+Por un minuto nada mas
+
+       {A}            {E}
+Todo daria, no importaria
+      {Bm}
+Lo que tenga que pasar
+      {E}                
+Lo que tenga que esperar
+
+{A}                     {C#m}   {F#m}
+  Por un momento en Tu presencia aahhh
+                       {D}
+Por un instante de Tu amor
+{A}                    {C#m}  {F#m}
+  Por un destello de Tu gloria aahh
+                   {D}
+Por un minuto nada mas
+
+       {A}            {E}
+Todo daria, no importaria
+      {Bm}
+Lo que tenga que pasar
+      {E}                {D}
+Lo que tenga que esperar
+
+      {E}      {A}         {C#7}
+Tengo hambre de Ti, de Tu presencia
+       {F#m}            {D}
+De Tu fragancia, de Tu poder
+            {A}          {C#7}
+Hambre que duele, que debilita
+        {F#m}    {D}
+Que desespera por Ti
+     {E}       {A}         {C#7}
+Tengo hambre de Ti, de Tu presencia
+       {F#m}            {D}
+De Tu fragancia, de Tu poder
+           {A}          {C#7}
+Hambre que duele, que debilita
+        {F#m}    {D}
+Que desespera por Ti
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Te Doy Gloria
+{C}                  {G}
+Cuan! Hermoso Eres JESUS
+         {Am}           {F}
+Son Tus Palabras, Es Tu Amor
+         {C}          {G}
+Cuan! Glorioso Eres JESUS
+       {Am}         {F}
+Es Tu Poder, Fue Tu Cruz,
+            {C}        {G}
+La Que Me Salvo Me Rescato
+    {Am}                   {F}
+Un Momento Ahí Nos Dio Libertad.
+
+
+       {C}
+Te Doy Gloria Gloria
+       {G}
+Te Doy Gloria Gloria
+       {Am}
+Te Doy Gloria Gloria
+       {F}
+A Ti JESUS
+
+
+    {F}             {G}
+Con Una Corona De Espinos
+     {Am}          {C}
+Te Hiciste Rey Por Siempre
+
+ENDSONG
+SONGTYPE Himno
+SONGNAME 14 Santo Santo Grande
+{D}        {G}            {D}
+Santo Santo Grande eterno Dios
+        {A}          {D}
+Con alegría hoy te alabamos
+      {D7}    {G}       {D}
+Rey de reyes, grande capitán
+{Bm}     {Em}     {A} {D}
+ Todo poderoso guerre ro
+ {D}
+Honor y gloria, luz y domino
+{G}         {E7}    {A7}
+Tributaremos todos a Tí
+
+-CORO-
+{D}   {D7} {G}       {D}
+Santo Santo eres tú señor
+{B7}         {E7}       {A7} {D}
+Dios de las batallas glorio  so
+
+Alabadle, cielos, tierra y mar
+Toda su iglesia sus mensajeros
+Alabanzas cantos de loor
+Hoy unidos elevaremos
+Juez majestuoso y reverendo,
+fuego y vida eres, Señor
+
+Rey de siglos, sólo Santo Dios
+Justo y eterno; incomprensible
+inmortal, autor de todo bien,
+eres tú el anciano de días,
+y para siempre entonaremos
+el canto eterno de redención.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 5 Gloria a ti Jesús divino
+{F}
+Gloria a ti Jesús divino
+{Bb}                  {F}
+Gloria a ti por tus bondades
+                        {Dm}
+Gloria eterna a tus piedades
+  {Gm} {C}   {F}
+Querido salvador
+
+-CORO-
+{F}
+Gloria Gloria aleluya
+{Bb}             {F}
+Gloria gloria aleluya
+                {Dm}
+Gloria gloria aleluya
+ {Gm}    {C}   {F}
+a nuestro Salvador
+
+Tu me amaste con ternura
+y por mi en la cruz moriste
+con ternura me quisiste
+querido salvador
+
+Tengo fé solo en tu muerte
+pues con ella me salvaste
+vida eterna me compraste
+querido salvador
+
+Te veremos en el cielo
+a vivir contigo iremos
+tu presencia gozaremos
+querido salvador
+ENDSONG
+SONGTYPE Himno
+SONGNAME 57 Yo quiero amarle mas
+   {F}          {Bb}  {F}
+por mi murio el salvador
+   {C}           {F}
+yo quiero amarle mas
+   {F}         {Bb}  {F}
+mis culpas perdono jesus,
+   {C}           {F}
+yo quiero amarle mas.
+  
+          "CORO"
+  {F}
+quiero amarle mas
+  {Bb}           {F}
+yo quiero amarle mas
+  {C}
+yo quiero amarle mas
+{Bb}     {C}   {F}
+y mas, y mas y mas
+
+   {F}
+yo quiero amarle mas
+  {Bb}           {F}
+yo quiero amarle mas
+   {C}          {F}
+yo quiero amarle mas
+
+         -2-
+su pueblo nunca dejara
+yo quiero amarle mas
+sus bendiciones nos dara,
+yo quiero amarle mas.
+
+         -3- 
+oh principe de eterna paz¡
+yo quiero amarle mas
+en gloria he de ver su faz.
+yo quiero amarle mas.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Te Exaltaré
+{Am}            {Dm}    {Am} 
+ Te exaltaré, mi Dios, mi Rey, 
+{Dm}      {F} {E7}   {Am}
+ y bendeciré tu nombre
+{Am}          {Dm}  {Am}
+ eternamente y para siempre;
+{F}      {E7}      {Am}
+ cada día te bendeciré.
+
+-Coro-
+
+{Dm}     {G}   {C}{G/B} {Am} 
+  Y alabaré tu noo o   mbre 
+ {Dm}  {G}     {C}{G/B} {Am}
+  eternamente y pa ra siempre.
+{A7}   {Dm}{G} {C} 
+ Grande es  Jehová, 
+ {Dm}         {F}     {E7}{Am}
+ y digno de suprema alabanza;
+{A7}     {Dm}     {G/B} {C}
+ y su grandeza es inescrutable;
+{Dm}    {E7}     {Am}
+cada día te bendeciré.
+
+{Am}       {Dm}     {Am} 
+ Generación a generación 
+{Dm}    {F}   {E7} {Am}
+ celebrará tus o  bras,
+{Am}           {Dm}      {Am}
+y anunciará tus poderosos hechos;
+{Dm}    {E7}      {Am}
+cada día te bendeciré
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Sed De Amor
+
+INTRO
+{Dm} {Gm} {C} {F} {Am} {Gm} {A7} {Dm}
+
+ {Dm}                             {Gm}
+Su rostro maltratado recuerdo yo a diario
+             {C}                        {F}
+su caminar cansado con rumbo hacia el calvario
+              {Gm}  {A7}              {Dm}
+resuenan en mi mente los golpes del martillo
+                {Bb}                     {A7}
+que clavarón las manos que nunca habían pecado
+
+{Dm}                                     {Gm}
+Heridos pies descalzos que afrontan su destino
+                 {C}                    {F}
+se escucha un latigazo sobre su cuerpo herido
+            {Gm}      {A7}           {Dm}
+no puede caminar y al caer sobre el camino
+                   {Bb}    {A7}       {Dm}  {D}
+tan solo escucha un grito levantate maldito
+ 
+            {Em}
+Tiene sed de amor
+          {A}                     {F#m}
+de algún humano que le tenga compasión
+         {Bm}
+sangra su rostro
+                 {Em}
+tiene roto el corazón
+               {A}
+si el nos dio amor
+                        {D}
+porque le pagan con traición
+
+          {Em}       {A}
+Jesucristo es mi fortaleza
+                 {F#m}
+la razón de mi existir
+      {Bm}
+es delicados pastos
+          {Em}
+me pastoreara
+       {A}
+su sacrificio mi alma
+           {D}
+nunca olvidará
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME El Borde De Su Manto
+      {Am}   {G}                 {F}   {G}
+Si tan solo tocare el borde de su manto
+      {Am}    {G}          {F}   {G}
+Si tan solo pudiera ver su rostro
+      {Am}    {G}            {F}
+Si tan solo pudiera tocar sus manos
+{C/E}    {Dm7} {F/G}  {G}
+ Libre  seria,  yo    se
+
+      {Am}   {G}                 {F}   {G}
+Si tan solo tocare el borde de su manto
+      {Am}    {G}          {F} {G}
+Si tan solo pudiera oír su voz
+      {Am}    {G}              {F}
+Si tan solo pudiera acercarme a el
+{C/E}    {Dm7} {F/G}  {G}
+ Libre  seria,  yo    se
+
+---CORO---
+
+       {G/B}     {C}
+Porque delante de ti
+       {Bdim7}     {E/G#}{Am7}
+Solo soy alguien que nece  sita
+ {C/G}        {F}
+Un toque del maestro
+{C/E}           {G}
+    Para ser liberado
+
+       {G/B}     {C}
+Porque delante de ti
+       {Bdim7}     {E/G#}{Am7}
+Solo soy alguien que nece  sita
+     {C/G}           {F}  {G}
+Una mirada de mi salvador
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Enamorame
+{E}        {A}         {B}
+Quiero entregarte mis sueños
+{E}       {A}        {B}   {C#m}
+   Tu voluntad has en ellos
+       {A}        {E/Ab}
+Mi corazón te lo entrego
+{C#m} {G#m} {A}    {B}
+  Ena   móra me de ti
+
+{E}            {A}       {B}
+   Quiero aprender a escucharte
+{E}        {A}          {B}  {C#m}
+   Quiero saber que es amarte
+         {A}     {E/Ab}
+de tu bondad yo saciarme
+{C#m} {G#m} {A}   {B}  {E} 
+  Ena   mora me de ti señor
+           CORO
+
+{Bm} {E/Ab} {A}        {G#m} {C#m}
+ Que   tu presencia me inun   de
+{F#m}   {B}   {Bm} {E/Ab}
+  has de mi un odre  nuevo
+{A}        {G#m} {C#m}
+ cambiame renuéva  me
+{F#m} {E/Ab} {A}   {B}  {E}
+  ena   mo  rame de ti señor
+ENDSONG
+SONGTYPE Himno
+SONGNAME 77 Yo espero el dia alegre
+    {D}                        {G}        {D}
+yo espero el dia alegre cuando cristo volvera
+                                 {E7}    {A7}
+pues vendra al mundo pronto y nos arrebatara.
+       {D}       {C}         {G/B}     {Gm}
+!oh que gozo este pensamiento a mi alma da
+      {D}   {D#dim}   {Em}  {A}   {D}
+el que cristo venga al mundo otra vez¡
+
+              -CORO-
+!oh¡ jesus vendra al mundo otra vez
+                              {E7} {A7}
+si jesus vendra al mundo otra vez,
+     {D}         {C}          {G/B}       {Gm}
+le veremos en las nubes con los angeles de luz,
+      {D}   {D#dim}   {Em}  {A}   {D}
+cuando cristo venga al mundo otra vez.
+
+                -2-
+la venida de jesus sera el remedio del dolor
+que aflige sienpre a este pobre mundo pecador,
+toda lagrima se enjugara por nuestro salvador,
+cuando cristo venga al mundo otra vez.
+
+                -3-
+llegaran los santos a sion con gozo eternal,
+y en todo el santo monte nada daña ni hace mal
+pues  conoseran a Dios entonses todos por igual,
+cuando cristo venga al mundo otra vez.
+
+                -4-
+el pecado, pena muerte en este mundo cesaran,
+martires y santos con jesus por sienpre reinaran
+cada alma gozara de paz perfecta sin afan,
+cuando cristo venga al mundo otra vez.
+ENDSONG
+SONGTYPE Himno
+SONGNAME 306 Yo Tengo Un Rey
+           {A}
+Yo tengo un rey, mi salvador
+                 {E}
+y por El yo tengo vida,
+           {A}
+es promesa fiel
+
+--CORO--
+               {D}
+Y espero no ofender jamas a mi rey
+             {A}
+espero no ofender jamas a mi rey
+             {E}             {A}
+espero no ofender jamas a mi rey
+
+Oh mira el sol al decaer
+nunca esperes te sorprenda
+sin el bien hacer
+
+cuando el se fue, nos prometio
+investirnos de poder
+de potencia celestial
+
+si tu quieres ver a Jesús mi rey
+solo entregate en sus brazos
+el te quiere socorrer
+
+El volverá escrito está
+con los ángeles en gloria
+nos llevará
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Dios Ha Sido Bueno
+{F} {Dm7}       {F/G} {Csus4}{C}
+ Dios    ha sido bue    no
+{Gm7} {Csus4}  {C} {Fsus4} {F}
+ Dios        ha sido bue   no
+{F/A} {Cm}  {F7} {Gsus4} {G}
+ Dios     ha sido bue     no
+{Gm7} {F/C}  {F}
+ Bue    no es Dios
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME A Dios Sea La Gloria
+{B}           {D#m}        {A}          {G#}
+Como he de expresar lo que Dios por mi a hecho
+{C#m}      {E}        {C#m}  {F#} {B} {F#}
+que sin merecer dio su sangre carmesi
+      {B}   {F#}             {G#m7} 
+ni las voces   de un millón de angeles, 
+       {C#}       {F#} 
+expresaran mi gratitud
+        {B}                {B7} 
+todo lo soy,y lo que espero ser, 
+       {E} {F#} {B} {F#}
+lo debo to  do a EL
+
+--CORO--
+
+ {B}         {D#m} {G#7} 
+A Dios sea la glo   ria, 
+{C#m}        {Em} {F#}
+a Dios sea la glo  ria.
+ {D#7}      {G#m7} {E} 
+A Dios sea la glo  ria,
+             {C#7}    {F#}
+por lo que El hizo por mí.
+
+      {B}             {F#} {G#7}
+con su sangre EL me ha comprado,
+     {C#m7}               {Em} {F#}
+con su poder El me ha levanta   do,
+ {D#7}      {G#m7} {E} 
+A Dios sea la glo  ria,
+             {C#7}    {F#}
+por lo que El hizo por mí.
+
+--PUENTE--
+
+       {G#m7}  {D#}     
+Quiero vivir para Dios,
+          {B}          {C#}
+quiero agradarle solo a EL,
+        {E}         {B}
+si acaso gano alguna fama 
+               {C#}        {F#}
+la llevaré a la cima del calvario.
+ENDSONG
+SONGTYPE Himno 
+SONGNAME 283 Aunque en esta vida
+aunque en esta vida no tengo riquezas
+se que alla en la gloria tengo mi mansion
+cual alma perdida entre la pobreza,
+de mi jesucristo,tuvo compasion.
+
+         CORO
+mas alla del sol ,mas alla del sol,
+yo tengo un hogar 
+hogar, bello hogar,
+mas alla del sol.
+
+        -2-
+asi por el mundo yo voy caminando
+de pruebas rodeado y de tentacion
+pero jesucristo ya me esta probando
+me llevara salvo hasta su mansion
+
+         -3-
+a todas las razas del linaje humano
+cristo quiere darles plena salvacion
+tambien una casa,no hecha de manos
+fue a prepararnos a la santa sion.
+ENDSONG
+SONGTYPE Alabanza
+SONGNAME Primer Amor
+INTRODUCCIÓN
+{C} {G} {Am} {Em} {F} {C} {G}
+
+{C}             {G}
+Hoy quiero preguntarte hijo mio
+        {Am}                   {Em}
+si mi presencia ya no te hace feliz
+     {F}             {C}           {G} 
+pocas veces buscas mi rostro no es asi 
+
+{C}             {G}
+    he visto tambien
+         {Am}                {Em}
+que ya no haces mi labor con amor
+     {F}             {C}       {G}
+sino solo como una rutina nada mas
+
+{Am}         {Em}
+    ya no recuerdas
+      {F}                {C}      {G}
+cuando juntos caminabamos los dos
+{Am}      {Em}        {F}                    {G}
+    una sonrisa se dibujaba en tu rostro con amor
+      
+         {C}
+Vuelveme amar
+         {G}              {Am}
+como lo hiciste la primera vez
+          {Em}         {F}
+cuando del lodo yo te saque
+       {C}      {G}
+como a hijo te trate
+           {C}
+vuelve a sentir
+      {G}                    {Am}
+aquel amor que puse dentro de ti
+          {Em}           {F}
+que aun recuerda que prometi
+          {C}        {G}
+estar siempre junto a ti
+ENDSONG

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Alabanza.utils"
+             x:Class="Alabanza.VistaCancion">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="8">
+                <StackLayout>
+                    <Label x:Name="nameSong" FontSize="Medium" HorizontalTextAlignment="Center" >
+                        <Label.GestureRecognizers>
+                            <SwipeGestureRecognizer Direction="Left" Swiped="SwipeGestureRecognizer_Swiped"/>
+                            <SwipeGestureRecognizer Direction="Right" Swiped="SwipeGestureRecognizer_Swiped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                        <Label Text="-1/2" FontSize="Small">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="bajarTono"/>
+                            </Label.GestureRecognizers>
+                        </Label>
+                        <Label Text="     "></Label>
+                        <Label Text="#/b" FontSize="Small" ></Label>
+                        <Label Text="     "></Label>
+                        <Label Text="+1/2" FontSize="Small">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="subirTono"/>
+                            </Label.GestureRecognizers>
+                        </Label>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <ScrollView>
+                <Label x:Name="cancion" FontSize="18" FontFamily="SpaceMono"></Label>
+                <!--<Label Text="<HTML>Hola <b>como estas</b></HTML>" FontSize="16" TextType = 'Html'>-->
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
